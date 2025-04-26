@@ -1,6 +1,5 @@
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports en Espanol (720p)
-https://www.youtube.com/watch?time_continue=4&v=e-LT-_3yHvY&embeds_referring_euri=https%3A%2F%2Fcampus.frm.utn.edu.ar%2F&embeds_referring_origin=https%3A%2F%2Fcampus.frm.utn.edu.ar&source_ve_path=Mjg2NTksMjg2NjAsMjM4NTE.mp4
-#EXTM3U
+#EXTINF:-1 tvg-name="Clase Seguridad de Redes" tvg-logo="https://i.ytimg.com/vi/e-LT-_3yHvY/hqdefault.jpg",Clase del Prof. Facchini (YouTube)
+https://www.youtube.com/watch?v=e-LT-_3yHvY
 #EXTINF:25,Djazz
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/2master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
 #EXTINF:29, Promar TV | VE
