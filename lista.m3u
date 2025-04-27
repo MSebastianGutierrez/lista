@@ -1,5 +1,11 @@
 #EXTINF:-1 tvg-name="Clase Seguridad de Redes" tvg-logo="https://i.ytimg.com/vi/e-LT-_3yHvY/hqdefault.jpg",Clase del Prof. Facchini (YouTube)
 https://www.youtube.com/watch?v=e-LT-_3yHvY
+#EXTM3U
+#EXTINF:-1 tvg-id="CiudadTV.ar" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Ciudad TV
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="LatinaTV.ar" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Latina TV
+https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
 #EXTINF:-1 tvg-logo="",Ejemplo Filemoon
 https://filemoon.to/d/ypag5n691jf4
 #EXTINF:25,Djazz
