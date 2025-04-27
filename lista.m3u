@@ -10,12 +10,10 @@ https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
 #EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
 https://stream.example.com/live/canal34.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="Energeek-13" tvg-logo="",Canal 13 (Energeek)
+#EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Canal 13 (Energeek)
 https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
-#EXTINF:-1 tvg-id="Channel1" tvg-logo="https://i.imgur.com/logo1.png" group-title="Argentina",Channel 1 (Legal)
-https://public-server.com/stream1.m3u8
-#EXTINF:-1 tvg-id="Channel2" tvg-logo="https://i.imgur.com/logo2.png" group-title="Argentina",Channel 2 (Legal)
-https://public-server.com/stream2.m3u8
+#EXTINF:-1 tvg-id="Magic TV"  tvg-logo="https://i.imgur.com/logo1.png" group-title="Argentina",Channel 1 (Legal)
+https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="TVPública.ar" tvg-logo="https://i.imgur.com/tvp.png" group-title="Argentina",TV Pública
 https://ythls.onrender.com/channel/UCs83IfIfB3a1DxPV2U1DkjA.m3u8
