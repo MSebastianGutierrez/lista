@@ -6,8 +6,19 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="LatinaTV.ar" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Latina TV
 https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
-#EXTINF:-1 tvg-logo="",Ejemplo Filemoon
-https://filemoon.to/d/ypag5n691jf4
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
+https://stream.example.com/live/canal34.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="Energeek-13" tvg-logo="",Canal 13 (Energeek)
+https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
+#EXTINF:-1 tvg-id="Channel1" tvg-logo="https://i.imgur.com/logo1.png" group-title="Argentina",Channel 1 (Legal)
+https://public-server.com/stream1.m3u8
+#EXTINF:-1 tvg-id="Channel2" tvg-logo="https://i.imgur.com/logo2.png" group-title="Argentina",Channel 2 (Legal)
+https://public-server.com/stream2.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="TVPública.ar" tvg-logo="https://i.imgur.com/tvp.png" group-title="Argentina",TV Pública
+https://ythls.onrender.com/channel/UCs83IfIfB3a1DxPV2U1DkjA.m3u8
 #EXTINF:25,Djazz
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/2master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
 #EXTINF:29, Promar TV | VE
