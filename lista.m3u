@@ -24,8 +24,17 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/logo.png" group-title="Argentina",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="BluMedios.co" tvg-logo="https://i.imgur.com/blumedios.png" group-title="Colombia",Blu Medios
+#EXTINF:-1 tvg-id="BluMedios.co" tvg-logo="https://i.imgur.com/blumedios.png" group-title="Argentina",Blu Medios
 https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="NeoTVDigital.ar" tvg-logo="https://i.imgur.com/neotv.png" group-title="Argentina",NeoTV Digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ejemplo" tvg-logo="" group-title="Argentina",Canal Ejemplo
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:25,Djazz
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/2master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
