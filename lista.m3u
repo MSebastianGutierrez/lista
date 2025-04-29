@@ -1,3 +1,4 @@
+
 #EXTINF:-1 tvg-name="Clase Seguridad de Redes" tvg-logo="https://i.ytimg.com/vi/e-LT-_3yHvY/hqdefault.jpg",Clase del Prof. Facchini (YouTube)
 https://www.youtube.com/watch?v=e-LT-_3yHvY
 #EXTINF:-1  group-title="Argentina", telefe alternativo
@@ -26,7 +27,7 @@ https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8?nimblesessionid=1015306
 #EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Canal 13 (Energeek)
 https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
 #EXTM3U
-#EXTINF:-1 tvg-id="Magic TV"  tvg-logo="https://i.imgur.com/logo1.png" group-title="Argentina",Channel 1 (Legal)
+#EXTINF:-1 tvg-id="Magic TV"  tvg-logo="https://i.imgur.com/logo1.png" group-title="Argentina",Magic TV
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/logo.png" group-title="Argentina",Cinco TV
@@ -55,8 +56,19 @@ https://daiconnect.com/live/hls/tvup/tvfy-animevision/b8ee129e0585ae0c1eb5b4187f
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVisionClassic" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision Classic (Tivify)
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?ApPW=1366&ApPH=641&USrGDPRC=undefined&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=4.6.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&tvfy_env=desktop&lmt=&ic=IAB1&content_genre=Entertainment&language=es&rating=TV-Y&requestuid=99d5714e-842e-4e0a-ba79-359b2c50a59d
 #EXTM3U
-#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="Cinemax" tvg-logo="https://example.com/logo.png" group-title="Cine",Cinemax (Claro)
-https://tvlibreonline.me/html/fl/?get=Q2luZW1heA==
+#EXTINF:-1  group-title="Argentina", Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Argentina", Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Argentina", Disney
+http://168.181.122.234:8000/play/a037/index.m3u8
+#EXTINF:-1  group-title="Argentina", Nickelodeon
+http://181.78.109.48:8000/play/a05a/index.m3u8
+http://185.189.225.150:85/nickelodeon/index.m3u8
+#EXTINF:-1  group-title="Argentina", Paramount
+http://185.189.225.150:85/Paramount/index.m3u8
+#EXTINF:-1  group-title="Argentina", Pandamax
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 #EXTINF:25,Djazz
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/2master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
