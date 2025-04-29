@@ -1,5 +1,8 @@
 #EXTINF:-1 tvg-name="Clase Seguridad de Redes" tvg-logo="https://i.ytimg.com/vi/e-LT-_3yHvY/hqdefault.jpg",Clase del Prof. Facchini (YouTube)
 https://www.youtube.com/watch?v=e-LT-_3yHvY
+#EXTINF:-1  group-title="Argentina", telefe alternativo
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1746016651~acl=%2f*~data=hdntl~hmac=1cadef333384ecb95b637c570ac2610225909ab2c5294d2fc89e07b1f27562e3/master-mtlf.m3u8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="CiudadTV.ar" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Ciudad TV
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
@@ -18,6 +21,7 @@ https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8?nimblesessionid=1015306
 #EXTM3U
 #EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Canal 13 (Energeek)
 https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
+#EXTM3U
 #EXTINF:-1 tvg-id="Magic TV"  tvg-logo="https://i.imgur.com/logo1.png" group-title="Argentina",Channel 1 (Legal)
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTM3U
