@@ -1,19 +1,21 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-name="Clase Seguridad de Redes" tvg-logo="https://i.ytimg.com/vi/e-LT-_3yHvY/hqdefault.jpg",Clase del Prof. Facchini (YouTube)
 https://www.youtube.com/watch?v=e-LT-_3yHvY
+#EXTM3U
 #EXTINF:-1  group-title="Argentina", telefe alternativo
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+#EXTM3U
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+https://radiosargentina.com.ar/arcltv.html?var1=https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTM3U
 #EXTINF:-1  group-title="Argentina", Anime Zone
 http://animezonetv.net/hls/stream.m3u8
-#EXTINF:-1  group-title="Argentina", FXN
-https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina",Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="LatinaTV.ar" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Latina TV
+#EXTINF:-1  group-title="Argentina",Latina TV
 https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
