@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=e-LT-_3yHvY
 #EXTINF:-1  group-title="Argentina", telefe alternativo
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1746027117~acl=%2f*~data=hdntl~hmac=66c8e1d8c9ce187c4d572a247784656b00d364c26354b0152b3f444625ea137b/master-mtlf3.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
-https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream3/chunks.m3u8?nimblesessionid=116042533
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?nimblesessionid=116504593
 #EXTM3U
 #EXTINF:-1 tvg-id="CiudadTV.ar" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Ciudad TV
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
