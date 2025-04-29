@@ -2,7 +2,8 @@
 https://www.youtube.com/watch?v=e-LT-_3yHvY
 #EXTINF:-1  group-title="Argentina", telefe alternativo
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1746016651~acl=%2f*~data=hdntl~hmac=1cadef333384ecb95b637c570ac2610225909ab2c5294d2fc89e07b1f27562e3/master-mtlf.m3u8
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1  group-title="Argentina", HBO Extreme
+https://edge-live34-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzQ2MTAzNTAxIiwic2lwIjoiMTkxLjgyLjEuMTgiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX0V4dHJlbWUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJmZGVhNGY4NmJiYjllYjIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI3OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.ICjJ8xHhJ9brSw9fGqmQFNpmKkTonXszAfPjjfm_jcNwdyih1KeKVjyi1qd4SNGOv3W3cUvrmMZMj6ziG3SEMg==/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme-DVBTXT_TTML_spa_2888=14-scale=1000-p=318170430500000-325860292400.mp4
 #EXTM3U
 #EXTINF:-1 tvg-id="CiudadTV.ar" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Ciudad TV
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
