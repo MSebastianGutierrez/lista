@@ -18,6 +18,14 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula7.mp4
 #EXTINF:-1  group-title="Argentina", NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTM3U
+#EXTINF:-1  group-title="Argentina", Metro 12  
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1  group-title="Argentina", Play TV
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1  group-title="Argentina", Zion TV
+https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Telecreativa
+https://panel.host-live.com:19360/8012/8012.m3u8
 #EXTINF:-1  group-title="Argentina", TIV Chaco
 https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1  group-title="Argentina", STC Chaco
@@ -25,7 +33,10 @@ https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1  group-title="Argentina", El10 Salta
 https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8
 https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?session=bu36SfUUeVsyKcjgyTJjft
-#EXTM3U
+#EXTINF:-1  group-title="Argentina", Chilecito TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1  group-title="Argentina", Living TV
+https://videostream.shockmedia.com.ar:19360/lcproducciones/lcproducciones.m3u8
 #EXTINF:-1 tvg-name="Clase Seguridad de Redes" tvg-logo="https://i.ytimg.com/vi/e-LT-_3yHvY/hqdefault.jpg",Clase del Prof. Facchini (YouTube)
 https://www.youtube.com/watch?v=e-LT-_3yHvY
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Argentina", Pluto Anime TV
@@ -33,7 +44,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u
 #EXTINF:-1  group-title="Argentina", AMC Español
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 40 SJ
-https://canalsj.kozow.com/canal40/tracks-v1/index.fmp4.m3u8
+https://canalsj.kozow.com/canal40/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1  group-title="Argentina", Cosmo TV SJ
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTM3U
