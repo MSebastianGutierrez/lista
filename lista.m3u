@@ -20,6 +20,8 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", TIV Chaco
 https://videohd.live:19360/8008/8008.m3u8
+#EXTINF:-1  group-title="Argentina", STC Chaco
+https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1  group-title="Argentina", El10 Salta
 https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8
 https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?session=bu36SfUUeVsyKcjgyTJjft
