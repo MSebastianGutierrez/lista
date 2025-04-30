@@ -4,13 +4,14 @@
 https://www.youtube.com/watch?v=e-LT-_3yHvY
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Argentina", Pluto Anime TV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", telefe alternativo
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
-https://radiosargentina.com.ar/arcltv.html?var1=https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?nimblesessionid=1085949320
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Anime Zone
 http://animezonetv.net/hls/stream.m3u8
@@ -27,9 +28,6 @@ https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/eltrece.png" group-title="Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="TeleSol.ar" tvg-logo="https://i.imgur.com/telesol.png" group-title="Argentina",TeleSol (San Juan)
-https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8?nimblesessionid=1015306
-#EXTM3U
 #EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Canal 13 (Energeek)
 https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
 #EXTM3U
@@ -45,7 +43,7 @@ https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 #EXTINF:-1 tvg-id="NeoTVDigital.ar" tvg-logo="https://i.imgur.com/neotv.png" group-title="Argentina",NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Canal Ejemplo" tvg-logo="" group-title="Argentina",Canal Ejemplo
+#EXTINF:-1  group-title="Argentina",GEN TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
