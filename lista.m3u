@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Pelicula 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
+#EXTM3U
 #EXTINF:-1  group-title="Argentina", Pelicula 2
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
+#EXTM3U
 #EXTINF:-1  group-title="Argentina", Pelicula 3
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
 #EXTINF:-1  group-title="Argentina", Pelicula 4
