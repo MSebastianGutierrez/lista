@@ -1,4 +1,21 @@
-
+#EXTINF:-1  group-title="Argentina", Pelicula 1
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 2
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 3
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 4
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 5
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 6
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 7
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula7.mp4
+#EXTINF:-1  group-title="Argentina", NEOX TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1  group-title="Argentina", Canal 10 Salta tec
+https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="Clase Seguridad de Redes" tvg-logo="https://i.ytimg.com/vi/e-LT-_3yHvY/hqdefault.jpg",Clase del Prof. Facchini (YouTube)
 https://www.youtube.com/watch?v=e-LT-_3yHvY
@@ -6,6 +23,10 @@ https://www.youtube.com/watch?v=e-LT-_3yHvY
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1  group-title="Argentina", AMC Español
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
+#EXTINF:-1  group-title="Argentina", Canal 40 SJ
+https://canalsj.kozow.com/canal40/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1  group-title="Argentina", Cosmo TV SJ
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", telefe alternativo
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
