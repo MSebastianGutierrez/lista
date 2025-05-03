@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  group-title="Argentina", Economia
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream1/chunks.m3u8?nimblesessionid=134656895
 #EXTINF:-1  group-title="Argentina", Pelicula 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
 #EXTM3U
@@ -20,10 +22,11 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Metro 12  
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1  group-title="Argentina", Play TV
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1  group-title="Argentina", Zion TV
-https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Panc TV
+https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1  group-title="Argentina", Telecreativa
 https://panel.host-live.com:19360/8012/8012.m3u8
 #EXTINF:-1  group-title="Argentina", TIV Chaco
@@ -53,7 +56,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
-https://unlimited1-us.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?nimblesessionid=1085949320
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?nimblesessionid=1173433555
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Anime Zone
 http://animezonetv.net/hls/stream.m3u8
