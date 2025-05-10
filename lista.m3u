@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1  group-title="Argentina", Canal ONE
+https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
 #EXTINF:-1  group-title="Argentina", Radio Power
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w1701655140.m3u8
 #EXTINF:-1  group-title="Argentina", Pelicula 1
