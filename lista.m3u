@@ -31,7 +31,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1  group-title="Argentina", Play TV
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1  group-title="Argentina", NET TV
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=181738647
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", TV 9 Litoral
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/chunklist_w275195052_b1432576.m3u8
 #EXTINF:-1  group-title="Argentina", Five TV
@@ -66,7 +66,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
-https://unlimited1-us.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?nimblesessionid=1173433555
+
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Anime Zone
 http://animezonetv.net/hls/stream.m3u8
@@ -100,6 +100,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina",GEN TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1  group-title="Argentina",Quantica
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
