@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Clase Seguridad de Redes" tvg-logo="https://i.ytimg.com/vi/e-LT-_3yHvY/hqdefault.jpg",Clase del Prof. Facchini (YouTube)
+https://www.youtube.com/watch?v=e-LT-_3yHvY
+#EXTINF:-1  group-title="Clases", Calculo 1 clase 6
+https://drive.google.com/drive/folders/1_ulaEyG9YSqM_NXlN8__jU76P1MWouQf
+
 #EXTINF:-1  group-title="Argentina", Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1  group-title="Argentina", Canal ONE
@@ -46,8 +51,6 @@ https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1  group-title="Argentina", Living TV
 https://videostream.shockmedia.com.ar:19360/lcproducciones/lcproducciones.m3u8
-#EXTINF:-1 tvg-name="Clase Seguridad de Redes" tvg-logo="https://i.ytimg.com/vi/e-LT-_3yHvY/hqdefault.jpg",Clase del Prof. Facchini (YouTube)
-https://www.youtube.com/watch?v=e-LT-_3yHvY
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Argentina", Pluto Anime TV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1  group-title="Argentina", AMC Español
