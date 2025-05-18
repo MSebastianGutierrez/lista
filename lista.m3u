@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=e-LT-_3yHvY
 #EXTINF:-1  group-title="Clases", Calculo 1 clase 6
 https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhUqV&export=download&authuser=0
 
+#EXTINF:-1  group-title="Argentina", Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 11 la costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1  group-title="Argentina", Chilecito TV
@@ -34,12 +36,11 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://srv2.zcast.com.br/machagay/machagay/chunklist_w1476412693.m3u8
 #EXTINF:-1  group-title="Argentina", Metro 12  
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1  group-title="Argentina", Play TV
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1  group-title="Argentina", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=18310787
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", TV 9 Litoral
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/chunklist_w275195052_b1432576.m3u8
 #EXTINF:-1  group-title="Argentina", Five TV
@@ -75,9 +76,7 @@ https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1  group-title="Argentina", Canal 8 Tucuman
 https://live.eu-north-1a.cf.dmcdn.net/sec2(HYcryzZ4W08hAPybnB_1bXHOwI9xWSdAXPJMN3zjp6jLMc-MEmpRcb7XiX16LkZPhTCPOsVn0Jf5Wl0qix5xwQ6HskmNejueOiy3dUkVbxNYa2LVMu1Pbm0z_0if1VYy)/dm/3/x8z8w7c/s/live-480.m3u8
-#EXTM3U
-#EXTINF:-1  group-title="Argentina", Anime Zone
-http://animezonetv.net/hls/stream.m3u8
+
 #EXTM3U
 #EXTINF:-1  group-title="Argentina",Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
@@ -99,12 +98,6 @@ https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/eltrece.png" group-title="Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Canal 13 (Energeek)
-https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
-#EXTM3U
-#EXTINF:-1  group-title="Argentina",Magic Kid
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/logo.png" group-title="Argentina",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTM3U
@@ -121,6 +114,10 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="Argentina", Anime Zone
+http://animezonetv.net/hls/stream.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodix.com%2Flogos%2F2192953&psig=AOvVaw3aHymI1exY-ZjupRY1SyIb&ust=1746008842956000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjS7ICE_YwDFQAAAAAdAAAAABAJ" group-title="Argentina",Locomotion
 http://85.239.54.197:81/live/loco_hi/index.m3u8
@@ -132,3 +129,9 @@ https://daiconnect.com/live/hls/tvup/tvfy-animevision/b8ee129e0585ae0c1eb5b4187f
 #EXTM3U
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVisionClassic" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision Classic (Tivify)
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?ApPW=1366&ApPH=641&USrGDPRC=undefined&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=4.6.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&tvfy_env=desktop&lmt=&ic=IAB1&content_genre=Entertainment&language=es&rating=TV-Y&requestuid=99d5714e-842e-4e0a-ba79-359b2c50a59d
+#EXTM3U
+#EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Canal 13 (Energeek)
+https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
+#EXTM3U
+#EXTINF:-1  group-title="Argentina",Magic Kid
+https://magicstream.ddns.net/magicstream/stream.m3u8
