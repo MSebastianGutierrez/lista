@@ -34,6 +34,8 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Canal GTV
+https://cdn.streamhispanatv.net:3421/live/canalgtvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 11 chaco
 https://srv2.zcast.com.br/machagay/machagay/chunklist_w1476412693.m3u8
 #EXTINF:-1  group-title="Argentina", Metro 12  
