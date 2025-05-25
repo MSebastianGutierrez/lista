@@ -130,9 +130,9 @@ https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/b8ee129e0585ae0c1e
 #EXTM3U
 #EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Canal 13 (Energeek)
 https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
-#EXTM3U
+
 #EXTINF:-1  group-title="Argentina",Magic Kid
 https://magicstream.ddns.net/magicstream/stream.m3u8
-https://videostream.shockmedia.com.ar:19360/lcproducciones/lcproducciones.m3u8
+
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Argentina", Pluto Anime TV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
