@@ -164,3 +164,21 @@ https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Gogo TV
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Anime Onegai
+https://live20.bozztv.com/akamaissh101/ssh101/izervo1/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Big Channel
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Xiomoz
+https://live20.bozztv.com/akamaissh101/ssh101/xiomoz/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Comunicaciones
+https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Uva TV
+https://live20.bozztv.com/akamaissh101/ssh101/tvhduva/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Bacan TV
+https://live20.bozztv.com/akamaissh101/ssh101/bacanplus/chunks.m3u8
