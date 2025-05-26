@@ -125,8 +125,7 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodix.com%2Flogos%2F2192953&psig=AOvVaw3aHymI1exY-ZjupRY1SyIb&ust=1746008842956000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjS7ICE_YwDFQAAAAAdAAAAABAJ" group-title="Argentina",Locomotion
 http://85.239.54.197:81/live/loco_hi/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.lat" group-title="Argentina",Cartoon Network (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/617ffbb87a7f7b0007e7d6a1/master.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVision" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision (Tivify)
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?ApPW=1366&ApPH=641&USrGDPRC=undefined&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=4.6.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&tvfy_env=desktop&lmt=&ic=IAB1&content_genre=Entertainment&language=es&rating=TV-Y&requestuid=fe980063-d65d-41f7-84eb-5a5d65d822ff
@@ -143,14 +142,11 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Argentina", Pluto Anime TV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Kids" tvg-chno="1480", Pluto TV Kids
-https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 group-title="Argentina", Pluto TV Kids
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-name="Descubriendo Pluto TV" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="1", Descubriendo Pluto TV
-https://stitcher.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 group-title="Argentina", Pluto TV Cine Estelar
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Películas" tvg-chno="18", Pluto TV Cine Estelar
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
-#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas" tvg-chno="21", Pluto TV Cine Acción
-https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 group-title="Argentina", Pluto TV Cine Acción
+https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
