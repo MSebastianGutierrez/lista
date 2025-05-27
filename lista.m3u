@@ -51,8 +51,6 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1  group-title="Argentina", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:-1  group-title="Argentina", TV 9 Litoral
-https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/chunklist_w275195052_b1432576.m3u8
 #EXTINF:-1  group-title="Argentina", Five TV
 https://panel.host-live.com:19360/8118/8118.m3u8
 #EXTINF:-1  group-title="Argentina", Telecreativa
@@ -61,8 +59,6 @@ https://panel.host-live.com:19360/8012/8012.m3u8
 https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1  group-title="Argentina", STC Chaco
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
-#EXTINF:-1  group-title="Argentina", Canal 2 Salta
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1  group-title="Argentina", Living TV
 https://videostream.shockmedia.com.ar:19360/lcproducciones/lcproducciones.m3u8
 #EXTINF:-1  group-title="Argentina", AMC Español
@@ -73,8 +69,7 @@ https://stream.arcast.com.ar/casse/casse/chunklist_w2141602670.m3u8
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1  group-title="Argentina", CISCTV
 https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
-#EXTINF:-1  group-title="Argentina", Cosmo TV SJ
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", telefe alternativo
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
@@ -82,12 +77,11 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1  group-title="Argentina", Canal 8 Tucuman
-https://live.eu-north-1a.cf.dmcdn.net/live-480.m3u8
-https://live.eu-north-1a.cf.dmcdn.net/sec2(yDBklFCbiL5W5xOfUZUj3U9ohL7mMZR562gHPj2m-abL8TOx7ODQstUWetZVt9L3FSJP6kN9IKpiKIhWAZY_Z6tEYPIOU4cl4cA04nVzSQOtQPzBBJgb2-D-dqByGw46)/dm/3/x8z8w7c/s/live-480.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina",Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Cosmo TV SJ
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina",Latina TV
 https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
@@ -153,10 +147,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a=true
 
 #EXTINF:-1 group-title="Argentina", Energeek
-https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/chunklist_w955820261.m3u8
+https://cl-live.elekta.lat/live/c7eds/EnerGeek_Retro/SA_LIVE_hls_enc/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8
 
 #EXTINF:-1 group-title="Argentina", Energeek Fan
-https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/chunklist_w955820261.m3u8
+https://cl-live.elekta.lat/live/c7eds/EnerGeek_FAN/SA_LIVE_hls_enc/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8
 
 #EXTINF:-1 group-title="Argentina", Tele Max
 https://stream-us-east-1.getpublica.com/cl/250526d0qb5fb8auq1sck0sbog/1280x720_1500000_0_f.m3u8?i=1187_12987
