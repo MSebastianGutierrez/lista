@@ -219,8 +219,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", TV en linea Cusco
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 
-#EXTINF:-1 group-title="Argentina", Atacama TV
-https://v2.tustreaming.cl/atacamatv/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Argentina", Sumaq TV
+https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Invasiva
+https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
 
 #EXTINF:-1 group-title="Argentina", Bacan TV
 https://live20.bozztv.com/akamaissh101/ssh101/bacanplus/chunks.m3u8
@@ -233,6 +236,12 @@ https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/chunklist_w955820261.
 
 #EXTINF:-1 group-title="Argentina", Garabatito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+
+#EXTINF:-1 group-title="Argentina", Gia TV
+https://live20.bozztv.com/giatvplayout7/giatv-208343/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Argentina", Zoy TV
+https://live20.bozztv.com/akamaissh101/ssh101/zoytv/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Cine Max
 https://tv.arkeo.cl:19360/8128/8128.m3u8
