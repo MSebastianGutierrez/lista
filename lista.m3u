@@ -43,7 +43,7 @@ https://cdn.streamhispanatv.net:3421/live/canalgtvlive.m3u8
 #EXTINF:-1  group-title="Argentina", WOO TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1287150995_b700000_slen.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 11 chaco
-https://srv2.zcast.com.br/machagay/machagay/chunklist_w1476412693.m3u8
+https://live20.bozztv.com/giatv/giatv-ojodigital/ojodigital/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Metro 12  
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1  group-title="Argentina", Play TV
@@ -74,6 +74,9 @@ https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
 #EXTINF:-1  group-title="Argentina", telefe alternativo
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTM3U
+#EXTINF:-1 group-title="Argentina",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTM3U
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
@@ -97,8 +100,11 @@ https://canalsj.kozow.com/canal40/index.m3u8
 #EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/eltrece.png" group-title="Argentina",El Trece
+#EXTINF:-1 group-title="Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Argentina", Tele Max
+https://stream-us-east-1.getpublica.com/cl/250526d0qb5fb8auq1sck0sbog/1280x720_1500000_0_f.m3u8?i=1187_12987
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/logo.png" group-title="Argentina",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -110,7 +116,8 @@ https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina",GEN TV
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gentv/chunks.m3u8
+
 #EXTINF:-1  group-title="Argentina",Quantica
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTM3U
@@ -151,10 +158,6 @@ https://cl-live.elekta.lat/live/c7eds/EnerGeek_Retro/SA_LIVE_hls_enc/e8a8e789-17
 
 #EXTINF:-1 group-title="Argentina", Energeek Fan
 https://cl-live.elekta.lat/live/c7eds/EnerGeek_FAN/SA_LIVE_hls_enc/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8
-
-#EXTINF:-1 group-title="Argentina", Tele Max
-https://stream-us-east-1.getpublica.com/cl/250526d0qb5fb8auq1sck0sbog/1280x720_1500000_0_f.m3u8?i=1187_12987
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina", TeleMetro
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
