@@ -6,8 +6,8 @@ https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhU
 
 #EXTINF:-1  group-title="Argentina", Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1  group-title="Argentina", Canal 11 la costa
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1  group-title="Argentina", Living TV
+https://videostream.shockmedia.com.ar:19360/lcproducciones/lcproducciones.m3u8
 #EXTINF:-1  group-title="Argentina", Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1  group-title="Argentina", Canal ONE
@@ -30,10 +30,6 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 #EXTINF:-1  group-title="Argentina", Canal 7 
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-#EXTINF:-1  group-title="Argentina", Canal 3
-https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/chunklist_w1397954983.m3u8
-#EXTINF:-1  group-title="Argentina", Canal 3 Arroyito
-https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8?hls_ctx=d1548q58
 #EXTINF:-1  group-title="Argentina", NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV
@@ -58,8 +54,7 @@ https://panel.host-live.com:19360/8012/8012.m3u8
 https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1  group-title="Argentina", STC Chaco
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
-#EXTINF:-1  group-title="Argentina", Living TV
-https://videostream.shockmedia.com.ar:19360/lcproducciones/lcproducciones.m3u8
+
 #EXTINF:-1  group-title="Argentina", AMC Español
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 #EXTINF:-1  group-title="Argentina", Cable imagen SF1
@@ -98,9 +93,7 @@ https://canalsj.kozow.com/canal40/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="Argentina",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Argentina", Tele Max
 https://stream-us-east-1.getpublica.com/cl/250526d0qb5fb8auq1sck0sbog/1280x720_1500000_0_f.m3u8?i=1187_12987
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
@@ -110,12 +103,16 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="BluMedios.co" tvg-logo="https://i.imgur.com/blumedios.png" group-title="Argentina",Blu Medios
 https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
+#EXTINF:-1 group-title="Argentina", ResolvRadio
+https://live20.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Cine Max
+https://tv.arkeo.cl:19360/8128/8128.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="NeoTVDigital.ar" tvg-logo="https://i.imgur.com/neotv.png" group-title="Argentina",NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina",GEN TV
-https://live20.bozztv.com/akamaissh101/ssh101/gentv/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gentv/chunks.m3u8
 
 #EXTINF:-1  group-title="Argentina",Quantica
@@ -258,11 +255,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/zoytv/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Mix Bol TV
 https://live20.bozztv.com/giatv/giatv-mixboliviatv/mixboliviatv/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", ResolvRadio
-https://live20.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", Cine Max
-https://tv.arkeo.cl:19360/8128/8128.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Cuentos_de_Terramar-162148520-large.jpg" group-title="Ghigli",Cuentos de Terramar
