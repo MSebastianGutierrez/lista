@@ -138,6 +138,16 @@ https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
+#EXTINF:-1  group-title="Argentina", SelvaTv P
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+
+#EXTINF:-1  group-title="Argentina", Telebrunca
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1775365076.m3u8
+
+#EXTINF:-1  group-title="Argentina", liketv P
+https://live-evg1.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Catacaos P
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Anime Zone
 http://animezonetv.net/hls/stream.m3u8
