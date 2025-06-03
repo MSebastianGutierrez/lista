@@ -22,6 +22,7 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
 #EXTINF:-1  group-title="Argentina",Quantica
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
 #EXTINF:-1  group-title="Argentina", Pelicula 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
 #EXTM3U
@@ -67,8 +68,8 @@ https://panel.host-live.com:19360/8012/8012.m3u8
 https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1  group-title="Argentina", Xtremaccion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w1852776429.m3u8
-#EXTINF:-1  group-title="Argentina", Xtremacartoon
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1805708019.m3u8
+#EXTINF:-1  group-title="Argentina", VillaAlta
+https://inliveserver.com:1936/10016/10016/chunklist_w1070185634.m3u8
 
 #EXTINF:-1  group-title="Argentina", STC Chaco
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
@@ -266,6 +267,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/bacanplus/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Mix TV
 https://live20.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", CocoTV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Vision TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
