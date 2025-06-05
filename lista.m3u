@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=ry-BbIvyg2s&ab_channel=Tecno3F
 #EXTINF:-1  group-title="Clases", Calculo 1 clase 6
 https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhUqV&export=download&authuser=0
 
+#EXTINF:-1  group-title="Argentina", CDN sport D
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 #EXTINF:-1  group-title="Argentina", Fox sport mx
 https://ott.udptv.com/stream/udptv/foxsports/stream.m3u8?uid=173723360&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 #EXTINF:-1  group-title="Argentina", Fox sport Premium
@@ -16,8 +18,6 @@ https://44.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8?ip=191.82.36.157&to
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", ExitosTV DR
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
-#EXTINF:-1  group-title="Argentina", Chilecito TV
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1  group-title="Argentina", Canal ONE
 https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
 #EXTINF:-1  group-title="Argentina",Quantica
@@ -41,8 +41,6 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1  group-title="Argentina", NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1  group-title="Argentina", Nexxo TV D
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Pituco TV D
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV D
@@ -85,15 +83,12 @@ https://panel.host-live.com:19360/8118/8118.m3u8
 https://panel.host-live.com:19360/8012/8012.m3u8
 #EXTINF:-1  group-title="Argentina", TIV Chaco
 https://videohd.live:19360/8008/8008.m3u8
-#EXTINF:-1  group-title="Argentina", Xtremaccion
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w1852776429.m3u8
+
 #EXTINF:-1  group-title="Argentina", VillaAlta
 https://inliveserver.com:1936/10016/10016/chunklist_w1070185634.m3u8
 
 #EXTINF:-1  group-title="Argentina", STC Chaco
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
-#EXTINF:-1  group-title="Argentina", Cable imagen SF1
-https://stream.arcast.com.ar/casse/casse/chunklist_w2141602670.m3u8
 
 #EXTINF:-1  group-title="Argentina", CISCTV
 https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
@@ -101,13 +96,15 @@ https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
 https://fl3.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", PlusTv Ec
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1  group-title="Argentina", Riobamba Ec
+https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1098625645.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", telefe alternativo
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
-#EXTM3U
+
 #EXTINF:-1 group-title="Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTM3U
+
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", Telesol V
@@ -118,8 +115,8 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Cosmo TV SJ
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTM3U
-#EXTINF:-1  group-title="Argentina",Latina TV
-https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
+#EXTINF:-1  group-title="Argentina",MegaHD D
+https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Telesol SanJuan
 https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 4 SanJuan
@@ -141,10 +138,9 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="BluMedios.co" tvg-logo="https://i.imgur.com/blumedios.png" group-title="Argentina",Blu Medios
 https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
-#EXTINF:-1 group-title="Argentina", ResolvRadio
-https://live20.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", Cine Max
+#EXTINF:-1 group-title="Argentina", Codigo D
+https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+#EXTINF:-1 group-title="Argentina", +Cine
 https://tv.arkeo.cl:19360/8128/8128.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="NeoTVDigital.ar" tvg-logo="https://i.imgur.com/neotv.png" group-title="Argentina",NeoTV Digital
@@ -168,8 +164,9 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1  group-title="Argentina", Telebrunca
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1775365076.m3u8
 
-#EXTINF:-1  group-title="Argentina", liketv P
-https://live-evg1.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Impacto tv Peru
+https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="Argentina", Catacaos P
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTM3U
