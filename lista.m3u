@@ -61,7 +61,7 @@ https://5790d294af2dc.streamlock.net/markatv/markatv/chunklist_w2104232346.m3u8
 #EXTINF:-1  group-title="Argentina", Jimani D
 https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w2113488226.m3u8
 #EXTINF:-1  group-title="Argentina", Canal GTV
-https://cdn.streamhispanatv.net:3421/live/canalgtvlive.m3u8
+https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Metropolis
 https://5e85d90130e77.streamlock.net/6014/6014/chunklist_w589737459.m3u8
 #EXTINF:-1  group-title="Argentina", Impresionante
@@ -164,9 +164,10 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1  group-title="Argentina", Telebrunca
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1775365076.m3u8
 
-#EXTINF:-1  group-title="Argentina", Impacto tv Peru
+#EXTINF:-1  group-title="Argentina", Impacto Peru
 https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1  group-title="Argentina", Hechicera Peru
+https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1285591266.m3u8
 #EXTINF:-1  group-title="Argentina", Catacaos P
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTM3U
@@ -192,12 +193,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Argentina", Pluto Anime TV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 group-title="Argentina", Pluto TV Kids
-https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 group-title="Argentina", Pluto TV Cine Estelar
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a=true
-
 #EXTINF:-1 group-title="Argentina", Atacama
 https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
 
@@ -206,9 +201,6 @@ https://cl-live.elekta.lat/live/c7eds/EnerGeek_Retro/SA_LIVE_hls_enc/e8a8e789-17
 
 #EXTINF:-1 group-title="Argentina", Energeek Fan
 https://cl-live.elekta.lat/live/c7eds/EnerGeek_FAN/SA_LIVE_hls_enc/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8
-
-#EXTINF:-1 group-title="Argentina", TeleMetro
-https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Gogo TV
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
