@@ -49,7 +49,7 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Agenda56 D
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Boreal D
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive-80869.ts
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1  group-title="Argentina", Chinola D
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Telesiglo D
@@ -57,7 +57,7 @@ https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1  group-title="Argentina", HM D
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1  group-title="Argentina", IUniversal D
-https://imagenuniversaltv.net:3771/live/iutvlive-48091.ts
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1  group-title="Argentina", CanaTV D
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 #EXTINF:-1  group-title="Argentina", Canaldalive D
