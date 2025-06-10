@@ -49,6 +49,12 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Agenda56 D
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
+#EXTINF:-1  group-title="Argentina", Aurora G
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1  group-title="Argentina", Barbe G
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Esquipulas G
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1  group-title="Argentina", Chinola D
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Telesiglo D
