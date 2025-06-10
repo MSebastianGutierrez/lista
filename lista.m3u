@@ -101,9 +101,12 @@ https://inliveserver.com:1936/10016/10016/chunklist_w1070185634.m3u8
 https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w2113488226.m3u8
 #EXTINF:-1  group-title="Argentina", Canal GTV
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Waldi H
+https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8
 #EXTINF:-1  group-title="Argentina", Metropolis
 https://5e85d90130e77.streamlock.net/6014/6014/chunklist_w589737459.m3u8
 #EXTINF:-1  group-title="Argentina", Metropolis 1 H
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6028/6028/chunklist_w724732437.m3u8
 #EXTINF:-1  group-title="Argentina", Chilive G
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
