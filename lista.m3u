@@ -95,6 +95,8 @@ https://cloud5.idealtv.net/hls/live.m3u8
 https://5790d294af2dc.streamlock.net/markatv/markatv/chunklist_w2104232346.m3u8
 #EXTINF:-1  group-title="Argentina", Mia D
 https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
+#EXTINF:-1  group-title="Argentina", VillaAlta RD
+https://inliveserver.com:1936/10016/10016/chunklist_w1070185634.m3u8
 #EXTINF:-1  group-title="Argentina", Jimani D
 https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w2113488226.m3u8
 #EXTINF:-1  group-title="Argentina", Canal GTV
@@ -124,9 +126,6 @@ https://panel.host-live.com:19360/8118/8118.m3u8
 https://panel.host-live.com:19360/8012/8012.m3u8
 #EXTINF:-1  group-title="Argentina", TIV Chaco
 https://videohd.live:19360/8008/8008.m3u8
-
-#EXTINF:-1  group-title="Argentina", VillaAlta
-https://inliveserver.com:1936/10016/10016/chunklist_w1070185634.m3u8
 
 #EXTINF:-1  group-title="Argentina", STC Chaco
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
@@ -269,8 +268,14 @@ https://ssh101.bozztv.com/ssh101/taltal/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", TalTal Mix
 https://ssh101.bozztv.com/ssh101/animacion/playlist.m3u8
 
+#EXTINF:-1 group-title="Argentina", Max anime 1
+https://streamyes.alsolnet.com/esportsmax/live/chunklist_w147156333.m3u8
+
+#EXTINF:-1 group-title="Argentina", Max sport2 
+https://streamlov.alsolnet.com/rektv/live/chunklist_w1596267881.m3u8
+
 #EXTINF:-1 group-title="Argentina", Max anime
-https://streamlov.alsolnet.com/maxanime/live/chunklist_w353975405.m3u8
+https://streamlov.alsolnet.com/maxanime/live/chunklist_w243432874.m3u8
 
 #EXTINF:-1 group-title="Argentina", LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
