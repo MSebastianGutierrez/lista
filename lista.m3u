@@ -41,6 +41,10 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1  group-title="Argentina", NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1  group-title="Argentina", WTV N
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+#EXTINF:-1  group-title="Argentina", CTV H
+https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Pituco TV D
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV D
@@ -49,6 +53,24 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Agenda56 D
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
+#EXTINF:-1 group-title="Argentina", Platzi TV Spain
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&pid=LTCub9Hc0S6lxql4lfIx6EA5IVq5TU5Q&sid=26MvEAXWIuBFqsHW9kPclTBsLby2uHjw&uid=TXd8yXrt03YJdnFUR5BnJ22ySCqWk2Ji&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1749641915220&ot=WbzzsdE6zm55O8E05JKttQ&proto=https&pz=us
+#EXTINF:-1 group-title="Argentina", Cordoba TV Spain
+https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Argentina", Vision TV G
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 group-title="Argentina", Telecosta G
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1  group-title="Argentina", Sol G
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1  group-title="Argentina",  Sas G
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1  group-title="Argentina", Nim G
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1  group-title="Argentina", Multivision G
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1  group-title="Argentina", Panashid G
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/chunklist_w1792812026_b2176000.m3u8
 #EXTINF:-1  group-title="Argentina", Aurora G
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1  group-title="Argentina", Barbe G
@@ -259,8 +281,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", WepaTV
 https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", Telecosta
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
 
 #EXTINF:-1 group-title="Argentina", Moni TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
@@ -295,9 +316,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/bacanplus/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", CocoTV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
-#EXTINF:-1 group-title="Argentina", Vision TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Garabatito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
