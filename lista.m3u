@@ -45,6 +45,8 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", CTV H
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Via Pe
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  group-title="Argentina", Pituco TV D
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
@@ -116,6 +118,8 @@ https://5e85d90130e77.streamlock.net/6028/6028/chunklist_w724732437.m3u8
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1  group-title="Argentina", Impresionante
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w72967217.m3u8
+#EXTINF:-1  group-title="Argentina", WOOcine TV
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", WOO TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1919233798_b2000000_slen.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1287150995_b700000_slen.m3u8
@@ -158,6 +162,9 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
 #EXTINF:-1 group-title="Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Argentina",Punto2 P R
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_540.m3u8
 #EXTM3U
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/televidaar/livestream2/chunks.m3u8?
@@ -308,7 +315,17 @@ https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", WepaTV
 https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8
 
+#EXTINF:-1 group-title="Argentina", Yigo TV
+https://live20.bozztv.com/akamaissh101/ssh101/yigo/chunks.m3u8
 
+#EXTINF:-1 group-title="Argentina", Testing10 TV
+https://live20.bozztv.com/akamaissh101/ssh101/testing10/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Canal 5 VL TV
+https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", MoniPeli TV
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Moni TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
@@ -331,8 +348,17 @@ https://live20.bozztv.com/giatv/giatv-rocket/rocket/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Comunicaciones
 https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
+#EXTINF:-1 group-title="Argentina", Xiomoz
+https://live20.bozztv.com/akamaissh101/ssh101/xiomoz/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", ElMagoTV
+https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Live TV
+https://live20.bozztv.com/akamaissh101/ssh101/livess/chunks.m3u8
+
 #EXTINF:-1 group-title="Argentina", Uva TV
-https://live20.bozztv.com/akamaissh101/ssh101/tvhduva/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Canal69
 https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
