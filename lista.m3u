@@ -205,6 +205,8 @@ https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 #EXTINF:-1 group-title="Argentina", +Cine
 https://tv.arkeo.cl:19360/8128/8128.m3u8
+#EXTINF:-1 group-title="Argentina", VHS
+https://tv.arkeo.cl:19360/8138/8138.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="NeoTVDigital.ar" tvg-logo="https://i.imgur.com/neotv.png" group-title="Argentina",NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -277,6 +279,7 @@ https://cloud37.ecuatel.com/vostv/live/chunklist_w289283956.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 group-title="Argentina", Anime Onegai
+https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/f80d2719-f1e7-4420-ae53-edfef7a1c882/3.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/izervo1/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", AniFun
