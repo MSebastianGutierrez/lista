@@ -237,7 +237,7 @@ https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w12855
 #EXTINF:-1  group-title="Argentina", Catacaos P
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="319374" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png", Adult Swim LA
+#EXTINF:-1  group-title="Argentina", Adult Swim LA
 http://181.119.86.1:8000/play/a019?PlaylistM3UCL
 
 #EXTINF:-1  group-title="Argentina", Anime Zone
@@ -272,7 +272,17 @@ https://cl-live.elekta.lat/live/c7eds/EnerGeek_Retro/SA_LIVE_hls_enc/e8a8e789-17
 #EXTINF:-1 group-title="Argentina", Energeek Fan
 https://cl-live.elekta.lat/live/c7eds/EnerGeek_FAN/SA_LIVE_hls_enc/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8
 
+#EXTINF:-1 group-title="Argentina", SenpaiTV
+http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 
+#EXTINF:-1 group-title="Argentina", BoingTV
+http://185.189.225.150:85/boing/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina", DreikoTV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Argentina", ETC
+http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Argentina", Canal 36 Ec
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
