@@ -236,8 +236,12 @@ https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
 https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1285591266.m3u8
 #EXTINF:-1  group-title="Argentina", Catacaos P
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
-#EXTM3U
+
+#EXTINF:-1 tvg-id="319374" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png", Adult Swim LA
+http://181.119.86.1:8000/play/a019?PlaylistM3UCL
+
 #EXTINF:-1  group-title="Argentina", Anime Zone
+http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 http://animezonetv.net/hls/stream.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodix.com%2Flogos%2F2192953&psig=AOvVaw3aHymI1exY-ZjupRY1SyIb&ust=1746008842956000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjS7ICE_YwDFQAAAAAdAAAAABAJ" group-title="Argentina",Locomotion
@@ -286,6 +290,7 @@ https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb4
 https://live20.bozztv.com/akamaissh101/ssh101/izervo1/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", AniFun
+https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8?PlaylistM3UCL
 https://live20.bozztv.com/akamaissh101/ssh101/funtveste/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", ZYOONTV
