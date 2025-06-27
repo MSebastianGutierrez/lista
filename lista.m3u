@@ -217,7 +217,7 @@ https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3
 https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Invasiva
-https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
+https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
