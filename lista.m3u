@@ -237,7 +237,7 @@ https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w12855
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  group-title="Argentina", Adult Swim LA
-http://181.119.86.1:8000/play/a019?PlaylistM3UCL
+http://181.119.86.1:8000/play/a019
 
 #EXTINF:-1  group-title="Argentina", Anime Zone
 http://animezonetv.net/hls/stream.m3u8
