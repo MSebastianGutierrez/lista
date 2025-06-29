@@ -374,8 +374,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Toonami
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", Roquet TV
-https://live20.bozztv.com/giatv/giatv-rocket/rocket/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", Platinum TV
+https://live20.bozztv.com/akamaissh101/ssh101/platiniumtv/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Comunicaciones
 https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
@@ -407,6 +407,9 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.
 
 #EXTINF:-1 group-title="Argentina", Gia TV
 https://live20.bozztv.com/giatvplayout7/giatv-208343/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Argentina", Pritv CR
+https://live20.bozztv.com/akamaissh101/ssh101/tv1251master/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Zoy TV
 https://live20.bozztv.com/akamaissh101/ssh101/zoytv/chunks.m3u8
