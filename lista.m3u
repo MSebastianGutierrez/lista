@@ -128,11 +128,16 @@ https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w2062373795_b2000000_slen.m3u8
 #EXTINF:-1  group-title="Argentina",MegaHD D
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+
+#EXTINF:-1  group-title="Argentina",MovieSand
+https://live20.bozztv.com/akamaissh101/ssh101/moviesandtv/chunks.m3u8
+
 #EXTINF:-1 group-title="Argentina", Gogo TV
-https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Mix Bol TV
-https://live20.bozztv.com/giatv/giatv-mixboliviatv/mixboliviatv/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
+
 #EXTINF:-1 group-title="Argentina", Atacama
 https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Riobamba Ec
@@ -231,10 +236,12 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1  group-title="Argentina", Telebrunca
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1775365076.m3u8
 
-#EXTINF:-1  group-title="Argentina", Impacto Peru
-https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Pantalla clasica Ec
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
+
 #EXTINF:-1  group-title="Argentina", Hechicera Peru
 https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1285591266.m3u8
+
 #EXTINF:-1  group-title="Argentina", Catacaos P
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
