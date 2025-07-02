@@ -22,6 +22,8 @@ https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
 #EXTINF:-1  group-title="Argentina",Quantica
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1  group-title="Argentina",Colosal clasicos
+https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/chunklist_w1070237959.m3u8
 
 #EXTINF:-1  group-title="Argentina", Pelicula 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
@@ -300,8 +302,8 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 group-title="Argentina", Anime Onegai
 https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/bdf21610-fb13-41fb-a602-f61c25d74079/3.m3u8
 
-#EXTINF:-1 group-title="Argentina", Anime Onegai2
-https://live20.bozztv.com/akamaissh101/ssh101/izervo1/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", PortuTV V
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 
 #EXTINF:-1 group-title="Argentina", AniFun
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
@@ -350,8 +352,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Yigo TV
 https://live20.bozztv.com/akamaissh101/ssh101/yigo/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", rctvhd21
-https://live20.bozztv.com/akamaissh101/ssh101/rctvhd21/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", telemicro C5 RD
+https://live2.telemicro.com.do/live/55/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Canal 5 VL TV
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
