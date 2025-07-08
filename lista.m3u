@@ -336,6 +336,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 https://ssh101.bozztv.com/ssh101/animacion/playlist.m3u8
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
+#EXTINF:-1 group-title="Argentina", LRP 
+https://v2.tustreaming.cl/lrp/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Argentina", Max anime 1
 https://streamyes.alsolnet.com/esportsmax/live/chunklist_w147156333.m3u8
 
@@ -383,6 +386,9 @@ https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Platinum TV
 https://live20.bozztv.com/akamaissh101/ssh101/platiniumtv/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", TV2024
+https://live20.bozztv.com/akamaissh101/ssh101/tv2024/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Comunicaciones
 https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
