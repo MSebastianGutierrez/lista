@@ -72,7 +72,7 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1  group-title="Argentina", Canal9 Ixi G
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1  group-title="Argentina", Multivision G
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/chunklist_w1660736380.m3u8
 #EXTINF:-1  group-title="Argentina", Panashid G
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/chunklist_w1740763073_b2176000.m3u8
 #EXTINF:-1  group-title="Argentina", Aurora G
@@ -117,7 +117,14 @@ https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8
 #EXTINF:-1  group-title="Argentina", Mega RD
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
-
+#EXTINF:-1  group-title="Argentina", Latina Internacional RD
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist_w1742976766.m3u8
+#EXTINF:-1  group-title="Argentina", Los Santos CR
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1  group-title="Argentina", GAMTV CR
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", TicaVision CR
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w512711630.m3u8
 #EXTINF:-1  group-title="Argentina", MonteGrande
 https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Mega
