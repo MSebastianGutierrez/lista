@@ -6,8 +6,7 @@ https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhU
 
 #EXTINF:-1  group-title="Argentina", CDN sport D
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
-#EXTINF:-1  group-title="Argentina", HDBein2
-https://live20.bozztv.com/akamaissh101/ssh101/hdbein2/chunks.m3u8
+
 #EXTINF:-1  group-title="Argentina", Fox sport Premium
 https://ag9wzq.fubohd.com/foxsportspremium/mono.m3u8?token=b6db60f2559b143d026d5f0942b92fa5408a7ca6-84-1748710714-1748692714
 #EXTINF:-1  group-title="Argentina", Espn 
@@ -27,10 +26,8 @@ https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/chunklist_w1070237959.m3u8
 
 #EXTINF:-1  group-title="Argentina", Pelicula 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
-#EXTM3U
 #EXTINF:-1  group-title="Argentina", Pelicula 2
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
-#EXTM3U
 #EXTINF:-1  group-title="Argentina", Pelicula 3
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
 #EXTINF:-1  group-title="Argentina", Pelicula 4
@@ -71,8 +68,7 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1  group-title="Argentina", Nim G
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-#EXTINF:-1  group-title="Argentina", La Caleta G
-https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
+
 #EXTINF:-1  group-title="Argentina", Canal9 Ixi G
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1  group-title="Argentina", Multivision G
@@ -121,8 +117,9 @@ https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8
 #EXTINF:-1  group-title="Argentina", Mega RD
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
-#EXTINF:-1  group-title="Argentina", Mega TV
-https://live20.bozztv.com/akamaissh101/ssh101/928565960/chunks.m3u8
+
+#EXTINF:-1  group-title="Argentina", MonteGrande
+https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Mega
 https://live20.bozztv.com/akamaissh101/ssh101/megayurimaguas/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Metropolis
@@ -191,32 +188,31 @@ https://unlimited1-us.dps.live/televidaar/televidaar.smil/televidaar/livestream2
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", Telesol V
 https://vcp15.myplaytv.com/telesoltv/telesoltv/chunklist_w1215895705.m3u8
-#EXTM3U
+
 #EXTINF:-1  group-title="Argentina",Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Cosmo TV SJ
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTM3U
 
 #EXTINF:-1  group-title="Argentina", Telesol SanJuan
 https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 4 SanJuan
 https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w327404829.m3u8
-#EXTM3U
+
 #EXTINF:-1  group-title="Argentina", Caucete SanJuan
 https://canalsj.kozow.com/canal40/tracks-v1/index.fmp4.m3u8
 https://canalsj.kozow.com/canal40/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 
 #EXTINF:-1 group-title="Argentina", Tele Max
 https://stream-us-east-1.getpublica.com/cl/250526d0qb5fb8auq1sck0sbog/1280x720_1500000_0_f.m3u8?i=1187_12987
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/logo.png" group-title="Argentina",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-id="BluMedios.co" tvg-logo="https://i.imgur.com/blumedios.png" group-title="Argentina",Blu Medios
 https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
 #EXTINF:-1 group-title="Argentina", Codigo D
@@ -236,7 +232,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Invasiva
 https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
@@ -329,6 +324,9 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1 group-title="Argentina", animestation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
+#EXTINF:-1 group-title="Argentina", TeleAltura
+https://live20.bozztv.com/akamaissh101/ssh101/codificador7/chunks.m3u8
+
 #EXTINF:-1 group-title="Argentina", Agaki
 https://live20.bozztv.com/akamaissh101/ssh101/agaki/chunks.m3u8
 
@@ -369,6 +367,9 @@ https://live2.telemicro.com.do/live/55/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Canal 5 VL TV
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
 
+#EXTINF:-1 group-title="Argentina", PresenciaTV Peru
+https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
+
 #EXTINF:-1 group-title="Argentina", Peliskids
 https://stream.900444.xyz/live/peliskids.m3u8
 
@@ -405,8 +406,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/atvcanal22/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Cine 53
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", RTVArberia 5
-https://live20.bozztv.com/akamaissh101/ssh101/rtvarberia5/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", Multicanal
+https://live20.bozztv.com/akamaissh101/ssh101/multicanal/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Comunicaciones
 https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
@@ -424,6 +425,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Canal 10 CR
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 
+#EXTINF:-1 group-title="Argentina", TVOasis
+https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/chunks.m3u8
+
 #EXTINF:-1 group-title="Argentina", Canal69
 https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
 
@@ -438,13 +442,6 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.
 
 #EXTINF:-1 group-title="Argentina", Gia TV
 https://live20.bozztv.com/giatvplayout7/giatv-208343/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Argentina", Pritv CR
-https://live20.bozztv.com/akamaissh101/ssh101/tv1251master/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", Zoy TV
-https://live20.bozztv.com/akamaissh101/ssh101/zoytv/chunks.m3u8
-
 
 
 
