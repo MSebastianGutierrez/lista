@@ -103,6 +103,8 @@ https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 https://cloud5.idealtv.net/hls/live.m3u8
 #EXTINF:-1  group-title="Argentina", MarcaTV D
 https://5790d294af2dc.streamlock.net/markatv/markatv/chunklist_w1979983839.m3u8
+#EXTINF:-1  group-title="Argentina", RVP Ec
+https://eu1.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", MicroV D
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w92287913.m3u8
 #EXTINF:-1  group-title="Argentina", Mia D
