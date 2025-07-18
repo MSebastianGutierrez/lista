@@ -119,6 +119,18 @@ https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8
 #EXTINF:-1  group-title="Argentina", Mega RD
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#EXTINF:-1  group-title="Argentina", MegaTV Jaen Pe
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1  group-title="Argentina", DMJ Cuzco Pe
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w437949055.m3u8
+#EXTINF:-1  group-title="Argentina", Planeta TV Pe
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Viva TV Pe
+https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Unitel Pe
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", RSelva Pe
+https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Latina Internacional RD
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist_w1742976766.m3u8
 #EXTINF:-1  group-title="Argentina", Los Santos CR
