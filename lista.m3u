@@ -246,6 +246,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1  group-title="Argentina",GEN TV
 https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gentv/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Sumaq TV
 https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
