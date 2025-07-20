@@ -114,8 +114,15 @@ https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1  group-title="Argentina", Televercanal12 RD
 https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
+#EXTINF:-1  group-title="Argentina", Televisiondeleste RD
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+#EXTINF:-1  group-title="Argentina", Canal del Sur RD
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
+#EXTINF:-1  group-title="Argentina", TVS RD
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1  group-title="Argentina", DTV RD
 https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1  group-title="Argentina", CanaTV D
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 #EXTINF:-1  group-title="Argentina", Canaldalive D
