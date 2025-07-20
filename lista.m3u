@@ -86,8 +86,12 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 #EXTINF:-1  group-title="Argentina", CTV D
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
-#EXTINF:-1  group-title="Argentina", GiTV D
-https://gitelevision.moxstream.live/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+#EXTINF:-1  group-title="Argentina", Zrqui TV CR
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1  group-title="Argentina", TDTV CR
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", DTV RD
+https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", CanaTV D
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 #EXTINF:-1  group-title="Argentina", Canaldalive D
@@ -124,12 +128,16 @@ https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
 https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", RSelva Pe
 https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Argentina", Latina Internacional RD
-https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist_w1742976766.m3u8
+#EXTINF:-1  group-title="Argentina", Megavision RD
+https://66b3a8363297d.streamlock.net/megavision/MV/chunklist_w1572828595.m3u8
 #EXTINF:-1  group-title="Argentina", GAMTV CR
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", TicaVision CR
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w512711630.m3u8
+#EXTINF:-1  group-title="Argentina", La Vega canal26 CR
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+#EXTINF:-1  group-title="Argentina", ValleVision CR
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w883774443.m3u8
 #EXTINF:-1  group-title="Argentina", MonteGrande
 https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Mega
@@ -441,6 +449,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/uvatvdh/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Canal 10 CR
+https://acceso.radiosportstv.online:3285/stream/play.m3u8
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Canal69
