@@ -369,7 +369,7 @@ https://cloud37.ecuatel.com/vostv/live/chunklist_w289283956.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 group-title="Argentina", Anime Onegai
-https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/bdf21610-fb13-41fb-a602-f61c25d74079/3.m3u8
+https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina", PortuTV V
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
