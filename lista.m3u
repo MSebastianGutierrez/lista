@@ -325,10 +325,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVision" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision (Tivify)
-https://daiconnect.com/live/hls/tvup/tvfy-animevision/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8?ApPW=1366&ApPH=641&USrGDPRC=undefined&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F138.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=4.8.0&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&tvfy_env=desktop&lmt=&ic=IAB1&content_genre=Entertainment&language=es&rating=TV-Y&requestuid=a1bebdd0-e890-4c29-9ed3-05976c1286df
+https://daiconnect.com/live/hls/tvup/tvfy-animevision/50d2b897c16b6f75a57113f487ae5543/index.m3u8?ApPW=1366&ApPH=641&USrGDPRC=undefined&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F138.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=4.9.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&tvfy_env=desktop&lmt=&ic=IAB1&content_genre=Entertainment&language=es&rating=TV-Y&requestuid=5a628b50-447f-45fa-bd78-e9175d3c48ff
 
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVisionClassic" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision Classic (Tivify)
-https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?ApPW=1366&ApPH=641&USrGDPRC=undefined&UGDPR=1&DLg=es&ApStURL=https://tivify.tv&DAdID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&DAdIDT=sessionid&UUA=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/138.0.0.0%20Safari/537.36&UIP&ApNm=Tivify&ApV=4.8.0&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%220d8f2d12-49a7-4e0f-9a6a-8ece5665fa12%22&tvfy_env=desktop&lmt&ic=IAB1&content_genre=Entertainment&language=es&rating=TV-Y&requestuid=213eaf29-9e7e-43fe-8d07-d1459a719a3b
+https://d82pyvmcw2kdc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/b33b7640-3a1d-452a-b88e-1efd5e2e24c1/1.m3u8
 
 #EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Kanade
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=ZZDemoIPTVGH
@@ -427,7 +427,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", telemicro C5 RD
 https://live2.telemicro.com.do/live/55/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", Canal 5 VL TV
+#EXTINF:-1 group-title="Argentina", Canal 5 Vision Latina TV
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", PresenciaTV Peru
