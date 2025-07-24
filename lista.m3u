@@ -169,6 +169,9 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w512711630.
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 #EXTINF:-1  group-title="Argentina", ValleVision CR
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w883774443.m3u8
+#EXTINF:-1 group-title="Argentina", Canal 10 CR
+https://acceso.radiosportstv.online:3285/stream/play.m3u8
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 #EXTINF:-1  group-title="Argentina", MonteGrande
 https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Mega
@@ -291,7 +294,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
 https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w332129526.m3u8
 
 #EXTINF:-1  group-title="Argentina", SelvaTv P
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
@@ -463,9 +466,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/atvcanal22/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Cine 53
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", Multicanal
-https://live20.bozztv.com/akamaissh101/ssh101/multicanal/chunks.m3u8
-
 #EXTINF:-1 group-title="Argentina", Comunicaciones
 https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
@@ -478,10 +478,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/livess/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Uva TV
 https://live20.bozztv.com/akamaissh101/ssh101/uvatvdh/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", Canal 10 CR
-https://acceso.radiosportstv.online:3285/stream/play.m3u8
-https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Canal69
 https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
