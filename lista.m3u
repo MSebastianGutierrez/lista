@@ -330,9 +330,15 @@ https://daiconnect.com/live/hls/tvup/tvfy-animevision/50d2b897c16b6f75a57113f487
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVisionClassic" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision Classic (Tivify)
 https://d82pyvmcw2kdc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/b33b7640-3a1d-452a-b88e-1efd5e2e24c1/1.m3u8
 
+#EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",DF TV Animacion
+https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Kanade
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=ZZDemoIPTVGH
 https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
+
+#EXTINF:-1  group-title="Argentina", Nikelodeon
+http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1  group-title="Argentina",Magic Kid
 https://magicstream.ddns.net/magicstream/stream.m3u8
