@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1  group-title="Clases",Fox Sport Arg
+https://deportes2.ksdjugfsddeports.fun:9091/8_/tracks-v1a1/mono.ts.m3u8?remote=191.82.13.57&token=cd995b3cd991bde5ee877ad0f3cbb7db9d6bbe12-ebbc38c81ae2066bf6998040d9d7508f-1753471416-1753449816
+
 #EXTINF:-1  group-title="Clases",Clase 3 de IA
 https://www.youtube.com/watch?v=ry-BbIvyg2s&ab_channel=Tecno3F
 #EXTINF:-1  group-title="Clases", Calculo 1 clase 6
