@@ -6,8 +6,7 @@ https://www.youtube.com/watch?v=ry-BbIvyg2s&ab_channel=Tecno3F
 https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhUqV&export=download&authuser=0
 
 #EXTINF:-1  group-title="Argentina", Fox Sport 
-https://apollo.production-public.tubi.io/live/fox-sports-espanol/1bp59.m3u8?ap.debug=0&ap.pt=0&ap.sid=0f61db6c-f2c0-408b-a726-226066a02689&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=66982b82defc95cec3be8d57a9d30e74
-https://deportes2.ksdjugfsddeports.fun:9091/8_/tracks-v1a1/mono.ts.m3u8?remote=191.82.13.57&token=b942e5134488c36819d1c6ee447f2c2842235a13-4b0fc77c4249adb3dc7fa6bf5e306b04-1753557207-1753535607
+https://apollo.production-public.tubi.io/live/fox-sports-espanol/3u4cr.m3u8?ap.debug=0&ap.pt=0&ap.sid=ec772b80-0c2b-4530-a90b-3568470cfdab&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=c302f784ada5b3ebf2b886b70bcbc401
 
 #EXTINF:-1  group-title="Argentina", Bein Sport 
 https://bein-esp-xumo.amagi.tv/playlistR480p.m3u8
@@ -368,7 +367,7 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 https://cloud37.ecuatel.com/vostv/live/chunklist_w289283956.m3u8
 
 #EXTINF:-1 group-title="Argentina", Cinecanal EU
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v1a1/mono.ts.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Argentina", Next HS
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
