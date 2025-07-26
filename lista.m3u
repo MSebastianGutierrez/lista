@@ -50,7 +50,8 @@ https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", NAT GEO EU
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/tracks-v3a1/mono.ts.m3u8
-
+#EXTINF:-1  group-title="Argentina", Cinecanal EU
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", Pituco TV D
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV D
@@ -365,9 +366,6 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Vos Ec
 https://cloud37.ecuatel.com/vostv/live/chunklist_w289283956.m3u8
-
-#EXTINF:-1 group-title="Argentina", Cinecanal EU
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Argentina", Next HS
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
