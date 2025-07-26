@@ -8,6 +8,9 @@ https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhU
 #EXTINF:-1  group-title="Argentina", Fox Sport 
 https://apollo.production-public.tubi.io/live/fox-sports-espanol/3u4cr.m3u8?ap.debug=0&ap.pt=0&ap.sid=ec772b80-0c2b-4530-a90b-3568470cfdab&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=c302f784ada5b3ebf2b886b70bcbc401
 
+#EXTINF:-1  group-title="Argentina", Espn 1
+https://deportes2.ksdjugfsddeports.fun:9091/13_/tracks-v1a1/mono.ts.m3u8?remote=191.82.13.57&token=b1589ab4d49a2bcf29522cc3a19eab3c53fb8ac7-4aaffaac5a7ecec019f8bc80b1f2844c-1753589344-1753567744
+
 #EXTINF:-1  group-title="Argentina", Bein Sport 
 https://bein-esp-xumo.amagi.tv/playlistR480p.m3u8
 
@@ -38,6 +41,7 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
 #EXTINF:-1  group-title="Argentina", Pelicula 6
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
+
 #EXTINF:-1  group-title="Argentina", Canal 7 
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1  group-title="Argentina", NEOX TV
@@ -63,6 +67,13 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTINF:-1 group-title="Argentina", Platzi TV Spain
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&pid=LTCub9Hc0S6lxql4lfIx6EA5IVq5TU5Q&sid=26MvEAXWIuBFqsHW9kPclTBsLby2uHjw&uid=TXd8yXrt03YJdnFUR5BnJ22ySCqWk2Ji&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1749641915220&ot=WbzzsdE6zm55O8E05JKttQ&proto=https&pz=us
 
+
+#EXTINF:-1 group-title="Argentina", Constanza RD
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", La descarga RD
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 group-title="Argentina", Cascara TV RD
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist_w1992750624.m3u8
 #EXTINF:-1 group-title="Argentina", Tv Cotui  
 https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Solo Estrenos 24/7 
