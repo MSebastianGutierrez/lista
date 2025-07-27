@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=ry-BbIvyg2s&ab_channel=Tecno3F
 https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhUqV&export=download&authuser=0
 
 #EXTINF:-1  group-title="Argentina", Fox Sport 
-https://apollo.production-public.tubi.io/live/fox-sports-espanol/3u4cr.m3u8?ap.debug=0&ap.pt=0&ap.sid=ec772b80-0c2b-4530-a90b-3568470cfdab&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=c302f784ada5b3ebf2b886b70bcbc401
+https://deportes2.ksdjugfsddeports.fun:9091/8_/tracks-v1a1/mono.ts.m3u8?remote=191.82.13.57&token=5bbeda26352de862af574c524f3fee30db3ec3e7-9c8c8301565eb83e427778165ad76c61-1753641564-1753619964
 
 #EXTINF:-1  group-title="Argentina", Espn 1
 https://deportes2.ksdjugfsddeports.fun:9091/13_/tracks-v1a1/mono.ts.m3u8?remote=191.82.13.57&token=b1589ab4d49a2bcf29522cc3a19eab3c53fb8ac7-4aaffaac5a7ecec019f8bc80b1f2844c-1753589344-1753567744
@@ -66,8 +66,8 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Platzi TV Spain
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&pid=LTCub9Hc0S6lxql4lfIx6EA5IVq5TU5Q&sid=26MvEAXWIuBFqsHW9kPclTBsLby2uHjw&uid=TXd8yXrt03YJdnFUR5BnJ22ySCqWk2Ji&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1749641915220&ot=WbzzsdE6zm55O8E05JKttQ&proto=https&pz=us
-
-
+#EXTINF:-1 group-title="Argentina", Aion TV RD
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 group-title="Argentina", Constanza RD
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", La descarga RD
@@ -91,8 +91,6 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1  group-title="Argentina", Canal9 Ixi G
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
-#EXTINF:-1  group-title="Argentina", Multivision G
-https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/chunklist_w1660736380.m3u8
 #EXTINF:-1  group-title="Argentina", Panashid G
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/chunklist_w1740763073_b2176000.m3u8
 #EXTINF:-1  group-title="Argentina", Aurora G
@@ -185,6 +183,8 @@ https://media.streambrothers.com:1936/8262/8262/chunklist_w5044692.m3u8
 
 #EXTINF:-1  group-title="Argentina", TVO RD
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
+#EXTINF:-1  group-title="Argentina", CR Pe
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", DMJ Cuzco Pe
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w437949055.m3u8
 #EXTINF:-1  group-title="Argentina", Planeta TV Pe
