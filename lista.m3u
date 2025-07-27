@@ -9,7 +9,7 @@ https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhU
 https://deportes2.ksdjugfsddeports.fun:9091/8_/tracks-v1a1/mono.ts.m3u8?remote=191.82.13.57&token=5bbeda26352de862af574c524f3fee30db3ec3e7-9c8c8301565eb83e427778165ad76c61-1753641564-1753619964
 
 #EXTINF:-1  group-title="Argentina", Espn 1
-https://deportes2.ksdjugfsddeports.fun:9091/13_/tracks-v1a1/mono.ts.m3u8?remote=191.82.13.57&token=b1589ab4d49a2bcf29522cc3a19eab3c53fb8ac7-4aaffaac5a7ecec019f8bc80b1f2844c-1753589344-1753567744
+https://deportes2.ksdjugfsddeports.fun:9091/13_/tracks-v1a1/mono.ts.m3u8?remote=191.82.13.57&token=108881b2b4fe76976ee2514395e4c05047ea6817-e4d4569306d931a396f2b58fbafe135d-1753652443-1753630843
 
 #EXTINF:-1  group-title="Argentina", Bein Sport 
 https://bein-esp-xumo.amagi.tv/playlistR480p.m3u8
@@ -61,6 +61,8 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV D
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Multivision Gua
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1  group-title="Argentina", Agenda56 D
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
