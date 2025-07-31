@@ -314,7 +314,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_540.m3u8
 
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream2/chunks.m3u8?
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?
 
 #EXTINF:-1  group-title="Argentina", Telesol V
 https://vcp15.myplaytv.com/telesoltv/telesoltv/chunklist_w1215895705.m3u8
