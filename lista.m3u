@@ -65,6 +65,46 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1  group-title="Argentina", Agenda56 D
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:-1  group-title="Argentina", RSelva Pe
+https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina",GEN TV
+https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gentv/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", Next HS
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 group-title="Argentina", Sumaq TV
+https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Invasiva
+https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w332129526.m3u8
+
+#EXTINF:-1  group-title="Argentina", SelvaTv P
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+
+#EXTINF:-1 group-title="Argentina", Canal 5 Vision Latina TV
+https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Canal 10 CR
+https://acceso.radiosportstv.online:3285/stream/play.m3u8
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+#EXTINF:-1 group-title="Argentina", Platinum TV
+https://live20.bozztv.com/akamaissh101/ssh101/platiniumtv/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Punto TV bolivia
+https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Argentina", DelPueblo mediagroup
+https://live20.bozztv.com/akamaissh101/ssh101/atvcanal22/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Cine 53
+https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Comunicaciones
+https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Platzi TV Spain
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&pid=LTCub9Hc0S6lxql4lfIx6EA5IVq5TU5Q&sid=26MvEAXWIuBFqsHW9kPclTBsLby2uHjw&uid=TXd8yXrt03YJdnFUR5BnJ22ySCqWk2Ji&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1749641915220&ot=WbzzsdE6zm55O8E05JKttQ&proto=https&pz=us
@@ -76,8 +116,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 group-title="Argentina", Cascara TV RD
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist_w1992750624.m3u8
-#EXTINF:-1 group-title="Argentina", Tv Cotui  
-https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Solo Estrenos 24/7 
 https://live20.bozztv.com/akamaissh101/ssh101/2410samuel/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Vision TV G
@@ -115,8 +153,6 @@ https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1  group-title="Argentina", 360 RFTV CR
 https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
-#EXTINF:-1  group-title="Argentina", Zrqui TV CR
-https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1  group-title="Argentina", TDTV CR
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Alcarrizostv RD
@@ -177,8 +213,6 @@ https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w2113488226.m3u8
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Waldi H
 https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8
-#EXTINF:-1  group-title="Argentina", Mega RD
-https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Vision 3000 RD
 https://ss2.tvrdomi.com:1936/vision3000/vision3000/chunklist_w106021596.m3u8
 #EXTINF:-1  group-title="Argentina", Vallenueo RD
@@ -197,35 +231,17 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Unitel Pe
 https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Argentina", RSelva Pe
-https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="Argentina", Megavision RD
 https://66b3a8363297d.streamlock.net/megavision/MV/chunklist_w1572828595.m3u8
 #EXTINF:-1  group-title="Argentina", GAMTV CR
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", TicaVision CR
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w512711630.m3u8
-#EXTINF:-1  group-title="Argentina", La Vega canal26 CR
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+
 #EXTINF:-1  group-title="Argentina", ValleVision CR
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w883774443.m3u8
-#EXTINF:-1 group-title="Argentina", Canal 10 CR
-https://acceso.radiosportstv.online:3285/stream/play.m3u8
-https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
-#EXTINF:-1 group-title="Argentina", Platinum TV
-https://live20.bozztv.com/akamaissh101/ssh101/platiniumtv/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", Punto TV bolivia
-https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="Argentina", DelPueblo mediagroup
-https://live20.bozztv.com/akamaissh101/ssh101/atvcanal22/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", Cine 53
-https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", Comunicaciones
-https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", ElMagoTV
 https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
@@ -353,22 +369,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 #EXTINF:-1 tvg-id="NeoTVDigital.ar" tvg-logo="https://i.imgur.com/neotv.png" group-title="Argentina",NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1  group-title="Argentina",GEN TV
-https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
-https://live20.bozztv.com/akamaissh101/ssh101/gentv/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", Sumaq TV
-https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", Invasiva
-https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
-https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w332129526.m3u8
-
-#EXTINF:-1  group-title="Argentina", SelvaTv P
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-
 #EXTINF:-1  group-title="Argentina", La Popular TV Ch
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w687264911.m3u8
 
@@ -386,9 +386,6 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Vos Ec
 https://cloud37.ecuatel.com/vostv/live/chunklist_w289283956.m3u8
-
-#EXTINF:-1 group-title="Argentina", Next HS
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 group-title="Argentina", PortuTV V
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
@@ -493,14 +490,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Telebocono
 https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", WepaTV
-https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8
-
 #EXTINF:-1 group-title="Argentina", telemicro C5 RD
 https://live2.telemicro.com.do/live/55/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", Canal 5 Vision Latina TV
-https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", PresenciaTV Peru
 https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
