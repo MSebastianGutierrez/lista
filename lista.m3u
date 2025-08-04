@@ -1,0 +1,580 @@
+#EXTM3U
+
+#EXTINF:-1  group-title="Clases",Clase 3 de IA
+https://www.youtube.com/watch?v=ry-BbIvyg2s&ab_channel=Tecno3F
+#EXTINF:-1  group-title="Clases", Calculo 1 clase 6
+https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhUqV&export=download&authuser=0
+
+#EXTINF:-1  group-title="Argentina", Fox Sport 
+https://deportes2.ksdjugfsddeports.fun:9091/8_/index.m3u8?token=5401e2ca62e5979027974a771e76ec9c20ade57e-dca63748c2ae69ecdbd2d917ec902ccb-1754244832-1754223232&remote=191.82.29.241
+
+#EXTINF:-1  group-title="Argentina", Fox Sport premiun
+https://deportes2.ksdjugfsddeports.fun:9091/33_/index.m3u8?token=4a383e1604d333e7f1faffea43473acdcbb3336f-c04172ada5b06f0c349f5255f91e5b1b-1754248522-1754226922&remote=191.82.29.241
+
+#EXTINF:-1  group-title="Argentina", Espn 1
+https://deportes2.ksdjugfsddeports.fun:9091/13_/index.m3u8?token=a35cf0e0e9c81a37cd54073fb4e17666b670b255-58c49f58900172fd14d48eeaf21ee4ab-1754244873-1754223273&remote=191.82.29.241
+
+#EXTINF:-1  group-title="Argentina", Bein Sport 
+https://bein-esp-xumo.amagi.tv/playlistR480p.m3u8
+
+#EXTINF:-1  group-title="Argentina", Htv EU
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", VClassic Ch
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w263740062.m3u8
+#EXTINF:-1  group-title="Argentina", Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1  group-title="Argentina", ExitosTV DR
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1  group-title="Argentina", Canal ONE
+https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
+#EXTINF:-1  group-title="Argentina",Quantica
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1  group-title="Argentina",Colosal clasicos
+https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/chunklist_w1070237959.m3u8
+
+#EXTINF:-1  group-title="Argentina", Pelicula 1
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 2
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 3
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 4
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 5
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 6
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
+
+#EXTINF:-1  group-title="Argentina", Canal 7 
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1  group-title="Argentina", NEOX TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1  group-title="Argentina", WTV N
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+#EXTINF:-1  group-title="Argentina", CTV H
+https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Via Pe
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", NAT GEO EU
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", Cinecanal EU
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", Pituco TV D
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1  group-title="Argentina", MegaCine TV D
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Multivision Gua
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:-1  group-title="Argentina", Agenda56 D
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:-1  group-title="Argentina", RSelva Pe
+https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina",GEN TV
+https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gentv/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", Next HS
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 group-title="Argentina", Apanines TV
+https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", Ciudad Magica TV
+https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Sumaq TV
+https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Invasiva
+https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w332129526.m3u8
+
+#EXTINF:-1  group-title="Argentina", SelvaTv P
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+
+#EXTINF:-1 group-title="Argentina", Canal 5 Vision Latina TV
+https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Canal 10 CR
+https://acceso.radiosportstv.online:3285/stream/play.m3u8
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+#EXTINF:-1 group-title="Argentina", Platinum TV
+https://live20.bozztv.com/akamaissh101/ssh101/platiniumtv/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Punto TV bolivia
+https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Argentina", DelPueblo mediagroup
+https://live20.bozztv.com/akamaissh101/ssh101/atvcanal22/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Cine 53
+https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Comunicaciones
+https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Platzi TV Spain
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&pid=LTCub9Hc0S6lxql4lfIx6EA5IVq5TU5Q&sid=26MvEAXWIuBFqsHW9kPclTBsLby2uHjw&uid=TXd8yXrt03YJdnFUR5BnJ22ySCqWk2Ji&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1749641915220&ot=WbzzsdE6zm55O8E05JKttQ&proto=https&pz=us
+#EXTINF:-1 group-title="Argentina", Aion TV RD
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 group-title="Argentina", Constanza RD
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", La descarga RD
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 group-title="Argentina", Cascara TV RD
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist_w1992750624.m3u8
+#EXTINF:-1 group-title="Argentina", Solo Estrenos 24/7 
+https://live20.bozztv.com/akamaissh101/ssh101/2410samuel/chunks.m3u8
+#EXTINF:-1 group-title="Argentina", Vision TV G
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 group-title="Argentina", Telecosta G
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1  group-title="Argentina", Sol G
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1  group-title="Argentina",  Sas G
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1  group-title="Argentina", Nim G
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1  group-title="Argentina", Canal9 Ixi G
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1  group-title="Argentina", Panashid G
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/chunklist_w1740763073_b2176000.m3u8
+#EXTINF:-1  group-title="Argentina", Aurora G
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1  group-title="Argentina", Barbe G
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Esquipulas G
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1  group-title="Argentina", Chinola D
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Telesiglo D
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+#EXTINF:-1  group-title="Argentina", HM D
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+#EXTINF:-1  group-title="Argentina", IUniversal D
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Cotoui D
+https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
+#EXTINF:-1  group-title="Argentina", CTV D
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1  group-title="Argentina", 360 RFTV CR
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
+#EXTINF:-1  group-title="Argentina", TDTV CR
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Alcarrizostv RD
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w2123391289.m3u8
+#EXTINF:-1  group-title="Argentina", Cotubanama RD
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:-1  group-title="Argentina", Galaxia RD
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+#EXTINF:-1  group-title="Argentina", GH TV RD
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:-1  group-title="Argentina", MiTurno RD
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1  group-title="Argentina", OEPM RD
+https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
+#EXTINF:-1  group-title="Argentina", OndaTV RD
+https://cnn.hostlagarto.com/ondatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Telecanal28 RD
+https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Telenord10 RD
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+#EXTINF:-1  group-title="Argentina", Telenord12 RD
+https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
+#EXTINF:-1  group-title="Argentina", Bellavision RD
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1  group-title="Argentina", Televercanal12 RD
+https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
+#EXTINF:-1  group-title="Argentina", Televisiondeleste RD
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+#EXTINF:-1  group-title="Argentina", Telenovisa 43 RD
+https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
+#EXTINF:-1  group-title="Argentina", Canal del Sur RD
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
+#EXTINF:-1  group-title="Argentina", TVS RD
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1  group-title="Argentina", DTV RD
+https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", Orbit TV RD
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
+#EXTINF:-1  group-title="Argentina", CanaTV D
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+#EXTINF:-1  group-title="Argentina", Canaldalive D
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1  group-title="Argentina", IdealTV D
+https://cloud5.idealtv.net/hls/live.m3u8
+#EXTINF:-1  group-title="Argentina", MarcaTV D
+https://5790d294af2dc.streamlock.net/markatv/markatv/chunklist_w1979983839.m3u8
+#EXTINF:-1  group-title="Argentina", RVP Ec
+https://eu1.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", MicroV D
+https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w92287913.m3u8
+#EXTINF:-1  group-title="Argentina", Mia D
+https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
+#EXTINF:-1  group-title="Argentina", VillaAlta RD
+https://inliveserver.com:1936/10016/10016/chunklist_w1070185634.m3u8
+#EXTINF:-1  group-title="Argentina", Jimani D
+https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w2113488226.m3u8
+#EXTINF:-1  group-title="Argentina", Canal GTV
+https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Waldi H
+https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8
+#EXTINF:-1  group-title="Argentina", Vision 3000 RD
+https://ss2.tvrdomi.com:1936/vision3000/vision3000/chunklist_w106021596.m3u8
+#EXTINF:-1  group-title="Argentina", Vallenueo RD
+https://media.streambrothers.com:1936/8262/8262/chunklist_w5044692.m3u8
+
+
+#EXTINF:-1  group-title="Argentina", TVO RD
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
+#EXTINF:-1  group-title="Argentina", CR Pe
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", DMJ Cuzco Pe
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w437949055.m3u8
+#EXTINF:-1  group-title="Argentina", Planeta TV Pe
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Viva TV Pe
+https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Unitel Pe
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Argentina", Megavision RD
+https://66b3a8363297d.streamlock.net/megavision/MV/chunklist_w1572828595.m3u8
+#EXTINF:-1  group-title="Argentina", GAMTV CR
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", TicaVision CR
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w512711630.m3u8
+
+#EXTINF:-1  group-title="Argentina", ValleVision CR
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w883774443.m3u8
+
+
+#EXTINF:-1 group-title="Argentina", ElMagoTV
+https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Live TV
+https://live20.bozztv.com/akamaissh101/ssh101/livess/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Uva TV
+https://live20.bozztv.com/akamaissh101/ssh101/uvatvdh/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Canal69
+https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Bacan TV
+https://live20.bozztv.com/akamaissh101/ssh101/bacanplus/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", CocoTV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 group-title="Argentina", Garabatito TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+#EXTINF:-1  group-title="Argentina", Mega
+https://live20.bozztv.com/akamaissh101/ssh101/megayurimaguas/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Metropolis
+https://5e85d90130e77.streamlock.net/6014/6014/chunklist_w589737459.m3u8
+#EXTINF:-1  group-title="Argentina", Metropolis 1 H
+https://5e85d90130e77.streamlock.net/6028/6028/chunklist_w724732437.m3u8
+#EXTINF:-1  group-title="Argentina", Chilive G
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1  group-title="Argentina", Impresionante
+https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w72967217.m3u8
+#EXTINF:-1  group-title="Argentina", WOOcine TV
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", WOO TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w2062373795_b2000000_slen.m3u8
+#EXTINF:-1 group-title="Argentina", Telemetro RD
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
+#EXTINF:-1 group-title="Argentina", TeleMax RD
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
+
+#EXTINF:-1  group-title="Argentina",MovieSand
+https://live20.bozztv.com/akamaissh101/ssh101/moviesandtv/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Gogo TV
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Mix Bol TV
+https://live20.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Atacama
+https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Riobamba Ec
+https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1098625645.m3u8
+#EXTINF:-1  group-title="Argentina", Canal 11 chaco
+https://live20.bozztv.com/giatv/giatv-ojodigital/ojodigital/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Metro 12  
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1  group-title="Argentina", Play TV
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1  group-title="Argentina", NET TV
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1  group-title="Argentina", NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?
+#EXTINF:-1  group-title="Argentina", Five TV
+https://panel.host-live.com:19360/8118/8118.m3u8
+#EXTINF:-1  group-title="Argentina", Telecreativa
+https://panel.host-live.com:19360/8012/8012.m3u8
+#EXTINF:-1  group-title="Argentina", TIV Chaco
+https://videohd.live:19360/8008/8008.m3u8
+
+#EXTINF:-1  group-title="Argentina", STC Chaco
+https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
+
+#EXTINF:-1  group-title="Argentina", CISCTV
+https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
+#EXTINF:-1  group-title="Argentina", Sony Movie
+https://fl3.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="Argentina", telefe alternativo
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+
+#EXTINF:-1 group-title="Argentina",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Argentina",Punto2 P R
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_540.m3u8
+
+#EXTINF:-1  group-title="Argentina", Canal 9 televida
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?
+
+#EXTINF:-1  group-title="Argentina", Telesol V
+https://vcp15.myplaytv.com/telesoltv/telesoltv/chunklist_w1215895705.m3u8
+
+#EXTINF:-1  group-title="Argentina",Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Cosmo TV SJ
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1  group-title="Argentina", MiTV Pa
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w321976628.m3u8
+#EXTINF:-1  group-title="Argentina", Telesol SanJuan
+https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Canal 4 SanJuan
+https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w327404829.m3u8
+
+#EXTINF:-1  group-title="Argentina", Caucete SanJuan
+https://canalsj.kozow.com/canal40/tracks-v1/index.fmp4.m3u8
+https://canalsj.kozow.com/canal40/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
+https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
+
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/logo.png" group-title="Argentina",Cinco TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1 tvg-id="BluMedios.co" tvg-logo="https://i.imgur.com/blumedios.png" group-title="Argentina",Blu Medios
+https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
+#EXTINF:-1 group-title="Argentina", Codigo D
+https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+#EXTINF:-1 group-title="Argentina", +Cine
+https://tv.arkeo.cl:19360/8128/8128.m3u8
+
+#EXTINF:-1 group-title="Argentina", Pluto TV EN DIRECTO EN VIVO (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+
+#EXTINF:-1 tvg-id="NeoTVDigital.ar" tvg-logo="https://i.imgur.com/neotv.png" group-title="Argentina",NeoTV Digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1  group-title="Argentina", La Popular TV Ch
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w687264911.m3u8
+
+#EXTINF:-1  group-title="Argentina", Telebrunca
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1775365076.m3u8
+
+#EXTINF:-1  group-title="Argentina", Pantalla clasica Ec
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
+
+#EXTINF:-1  group-title="Argentina", Hechicera Peru
+https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1285591266.m3u8
+
+#EXTINF:-1 group-title="Argentina", Canal 36 Ec
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+#EXTINF:-1 group-title="Argentina", Vos Ec
+https://cloud37.ecuatel.com/vostv/live/chunklist_w289283956.m3u8
+
+#EXTINF:-1 group-title="Argentina", PortuTV V
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
+#EXTINF:-1  group-title="Argentina", Catacaos P
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Argentina", Adult Swim LA
+http://177.234.230.206:8011/play/a0pt
+http://181.119.86.1:8000/play/a019
+
+#EXTINF:-1  group-title="Argentina", Anime Zone
+http://animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodix.com%2Flogos%2F2192953&psig=AOvVaw3aHymI1exY-ZjupRY1SyIb&ust=1746008842956000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjS7ICE_YwDFQAAAAAdAAAAABAJ" group-title="Argentina",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVision" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision (Tivify)
+https://d1ujfw1zyymzyd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/f523a753-9cbc-45a1-a01b-44aa5ea13b97/1.m3u8
+
+#EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVisionClassic" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision Classic (Tivify)
+https://d82pyvmcw2kdc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/b33b7640-3a1d-452a-b88e-1efd5e2e24c1/1.m3u8
+
+#EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",DF TV Animacion
+https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",Kanade
+https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1  group-title="Argentina",Magic Kid
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Argentina", Pluto Anime TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 group-title="Argentina", Energeek
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 group-title="Argentina", Energeek Fan
+https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.m3u8?token=ZZDemoIPTVGH
+https://cl-live.elekta.lat/live/c7eds/EnerGeek_FAN/SA_LIVE_hls_enc/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8
+
+#EXTINF:-1 group-title="Argentina", SenpaiTV
+http://45.184.87.142:8000/play/a021?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Argentina", BoingTV
+http://185.189.225.150:85/boing/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina", DreikoTV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Argentina", ETC
+http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Argentina", Anime Onegai
+https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina", AniFun
+https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/funtveste/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Funtv retro
+https://live20.bozztv.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", ZYOONTV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", AniRetro
+https://tv.arkeo.cl:19360/8000/8000.m3u8
+
+#EXTINF:-1 group-title="Argentina", animestation
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", TeleAltura
+https://live20.bozztv.com/akamaissh101/ssh101/codificador7/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Agaki
+https://live20.bozztv.com/akamaissh101/ssh101/agaki/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", TalTal anime
+https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", TalTal Mix
+https://ssh101.bozztv.com/ssh101/animacion/playlist.m3u8
+https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", LRP 
+https://v2.tustreaming.cl/lrp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Argentina", Max anime 1
+https://streamyes.alsolnet.com/esportsmax/live/chunklist_w147156333.m3u8
+
+#EXTINF:-1 group-title="Argentina", Max sport2 
+https://streamlov.alsolnet.com/rektv/live/chunklist_w1596267881.m3u8
+
+#EXTINF:-1 group-title="Argentina", Max anime
+https://streamlov.alsolnet.com/maxanime/live/chunklist_w243432874.m3u8
+
+#EXTINF:-1 group-title="Argentina", LMS
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Telebocono
+https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", telemicro C5 RD
+https://live2.telemicro.com.do/live/55/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", PresenciaTV Peru
+https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Bum TV Col
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 group-title="Argentina", Gia TV
+https://live20.bozztv.com/giatvplayout7/giatv-208343/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Argentina", Xiomoz
+https://live20.bozztv.com/akamaissh101/ssh101/xiomoz/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Moni TV
+https://tv.arkeo.cl:19360/8134/8134.m3u8
+
+#EXTINF:-1 group-title="Argentina", FTV
+https://v2.tustreaming.cl/fantasiatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Argentina", Big Channel
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Magico
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Toonami
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Cuentos_de_Terramar-162148520-large.jpg" group-title="Ghigli",Cuentos de Terramar
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Cuentos%20de%20Terramar.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Earwig_y_la_bruja-802898174-large.jpg" group-title="Ghigli",Earwig y la bruja
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Earwig%20y%20la%20bruja.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg" group-title="Ghigli",El castillo en el cielo
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20castillo%20en%20el%20cielo.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_cuento_de_la_princesa_Kaguya-619798113-large.jpg" group-title="Ghigli",El cuento de la princesa Kaguya
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_incre_ble_castillo_vagabundo-661679030-large.jpg" group-title="Ghigli",El increible castillo vagabundo
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20increible%20castillo%20vagabundo.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_mundo_secreto_de_Arrietty-356171620-large.jpg" group-title="Ghigli",El mundo secreto de Arrietty
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20mundo%20secreto%20de%20Arrietty.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_recuerdo_de_Marnie-366882456-large.jpg" group-title="Ghigli",El recuerdo de Marnie
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20recuerdo%20de%20Marnie.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Haru_en_el_reino_de_los_gatos-963174131-large.jpg" group-title="Ghigli",El regreso del gato
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20regreso%20del%20gato.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_viaje_de_Chihiro-405533198-large.jpg" group-title="Ghigli",El viaje de Chihiro
+http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20viaje%20de%20Chihiro.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Kiki_Entregas_a_domicilio-859043662-large.jpg" group-title="Ghigli",Kiki - Entregas a domicilio
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Kiki%20-%20Entregas%20a%20domicilio.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_colina_de_las_amapolas-708774988-large.jpg" group-title="Ghigli",La colina de las Amapolas
+http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20colina%20de%20las%20Amapolas.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/mononoke_hime-598406013-large.jpg" group-title="Ghigli",La princesa Mononoke
+http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20princesa%20Mononoke.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_tortuga_roja-279094121-large.jpg" group-title="Ghigli",La tortuga roja
+http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20tortuga%20roja.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_tumba_de_las_luci_rnagas-976066027-large.jpg" group-title="Ghigli",La tumba de las Luciernagas
+http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20tumba%20de%20las%20Luciernagas.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Mi_vecino_Totoro-520161596-large.jpg" group-title="Ghigli",Mi vecino Totoro
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Mi%20vecino%20Totoro.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Mis_vecinos_los_Yamada-102086202-large.jpg" group-title="Ghigli",Mis vecinos los Yamada
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Mis%20vecinos%20los%20Yamada.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Pompoko-586957064-large.jpg" group-title="Ghigli",Pompoko
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Pompoko.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Ponyo_en_el_acantilado-453187942-large.jpg" group-title="Ghigli",Ponyo en el acantilado
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Ponyo%20en%20el%20acantilado.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Porco_Rosso-732590592-large.jpg",Porco Rosso
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Porco%20Rosso.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Puedo_escuchar_el_mar_TV-208114751-large.jpg" group-title="Ghigli",Puedo oir el mar
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Puedo%20oir%20el%20mar.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Recuerdos_del_ayer-615376082-large.jpg" group-title="Ghigli",Recuerdos del Ayer
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Recuerdos%20del%20Ayer.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Se_levanta_el_viento-819618076-large.jpg" group-title="Ghigli",Se levanta el viento
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Se%20levanta%20el%20viento.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Susurros_del_coraz_n-911063934-large.jpg" group-title="Ghigli",Susurros del Corazon
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Susurros%20del%20Corazon.mp4
