@@ -73,7 +73,7 @@ https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina",GEN TV
 https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gentv/chunks.m3u8
-#EXTINF:-1 group-title="Argentina", Next HS
+#EXTINF:-1 group-title="Argentina", Next hd Pa
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 group-title="Argentina", Apanines TV
 https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
@@ -115,8 +115,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Platzi TV Spain
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&pid=LTCub9Hc0S6lxql4lfIx6EA5IVq5TU5Q&sid=26MvEAXWIuBFqsHW9kPclTBsLby2uHjw&uid=TXd8yXrt03YJdnFUR5BnJ22ySCqWk2Ji&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1749641915220&ot=WbzzsdE6zm55O8E05JKttQ&proto=https&pz=us
-#EXTINF:-1 group-title="Argentina", Aion TV RD
-https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 group-title="Argentina", Zonavision TV RD
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d_output_0.m3u8?session=dvoGdBvSy36YhVCBu2Vxtx
 #EXTINF:-1 group-title="Argentina", Constanza RD
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", La descarga RD
@@ -354,8 +354,7 @@ https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8
 https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w327404829.m3u8
 
 #EXTINF:-1  group-title="Argentina", Caucete SanJuan
-https://canalsj.kozow.com/canal40/tracks-v1/index.fmp4.m3u8
-https://canalsj.kozow.com/canal40/index.m3u8
+https://canalsj.kozow.com/canal40/tracks-a1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
@@ -402,7 +401,6 @@ https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  group-title="Argentina", Adult Swim LA
 http://177.234.230.206:8011/play/a0pt
-http://181.119.86.1:8000/play/a019
 
 #EXTINF:-1  group-title="Argentina", Anime Zone
 http://animezonetv.net/hls/stream.m3u8
