@@ -179,8 +179,7 @@ https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1  group-title="Argentina", OndaTV RD
 https://cnn.hostlagarto.com/ondatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Argentina", Telecanal28 RD
-https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+
 #EXTINF:-1  group-title="Argentina", Telenord10 RD
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1  group-title="Argentina", Telenord12 RD
@@ -360,7 +359,7 @@ https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8
 https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w327404829.m3u8
 
 #EXTINF:-1  group-title="Argentina", Caucete SanJuan
-https://canalsj.kozow.com/canal40/tracks-a1/index.fmp4.m3u8
+https://canalsj.kozow.com/canal40/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
