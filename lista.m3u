@@ -67,6 +67,8 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV D
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Multivision RD
+https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/chunklist_w1813193973.m3u8
 #EXTINF:-1  group-title="Argentina", Multivision Gua
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1  group-title="Argentina", Valle nuevo RD
@@ -284,8 +286,13 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Garabatito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
-#EXTINF:-1  group-title="Argentina", Mega
-https://live20.bozztv.com/akamaissh101/ssh101/megayurimaguas/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Boreal TV RD
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1  group-title="Argentina", Mega chimbote 
+https://play.agenciastreaming.com:8081/megatvchimbote/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Cablevision Pe
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
 #EXTINF:-1  group-title="Argentina", Metropolis
 https://5e85d90130e77.streamlock.net/6014/6014/chunklist_w589737459.m3u8
 #EXTINF:-1  group-title="Argentina", Metropolis 1 H
