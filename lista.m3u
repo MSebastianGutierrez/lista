@@ -69,8 +69,8 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Multivision Gua
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-#EXTINF:-1  group-title="Argentina", Agenda56 D
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Valle nuevo RD
+https://media.streambrothers.com:1936/8262/8262/chunklist_w1718829737.m3u8
 #EXTINF:-1  group-title="Argentina", RSelva Pe
 https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina",GEN TV
@@ -103,6 +103,9 @@ https://acceso.radiosportstv.online:3285/stream/play.m3u8
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 #EXTINF:-1 group-title="Argentina", Platinum TV
 https://live20.bozztv.com/akamaissh101/ssh101/platiniumtv/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Punto TV digital 40 RD
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist_w994883156.m3u8
 
 #EXTINF:-1 group-title="Argentina", Punto TV bolivia
 https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
@@ -180,10 +183,19 @@ https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1  group-title="Argentina", OndaTV RD
 https://cnn.hostlagarto.com/ondatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  group-title="Argentina", Telenord10 RD
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
-#EXTINF:-1  group-title="Argentina", Telenord12 RD
-https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
+#EXTINF:-1  group-title="Argentina", TvCotui 31 RD
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Cananga TV RD
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+#EXTINF:-1  group-title="Argentina", Latina TV internacional TV RD
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+#EXTINF:-1  group-title="Argentina", Crom TV RD
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
+#EXTINF:-1  group-title="Argentina", Palmar TV RD
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Romana TV 42 RD
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:-1  group-title="Argentina", Bellavision RD
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1  group-title="Argentina", Televercanal12 RD
@@ -471,12 +483,6 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1 group-title="Argentina", animestation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", TeleAltura
-https://live20.bozztv.com/akamaissh101/ssh101/codificador7/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", Agaki
-https://live20.bozztv.com/akamaissh101/ssh101/agaki/chunks.m3u8
-
 #EXTINF:-1 group-title="Argentina", TalTal anime
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 
@@ -504,9 +510,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", telemicro C5 RD
 https://live2.telemicro.com.do/live/55/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina", PresenciaTV Peru
-https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Bum TV Col
 https://movil.ejeserver.com/live/visiondorada.m3u8
