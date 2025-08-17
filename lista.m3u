@@ -55,6 +55,10 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Via Pe
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Uranio TV Pe
+https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Supercanal Pe
+https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", NAT GEO EU
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", Cinecanal EU
@@ -85,6 +89,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Ciudad Magica TV
 https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/chunks.m3u8
 
+#EXTINF:-1 group-title="Argentina", TV en linea cusco
+https://live20.bozztv.com/akamaissh101/ssh101/ucchullo/chunks.m3u8
+
 #EXTINF:-1 group-title="Argentina", Sumaq TV
 https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
 
@@ -103,8 +110,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Canal 10 CR
 https://acceso.radiosportstv.online:3285/stream/play.m3u8
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
-#EXTINF:-1 group-title="Argentina", Platinum TV
-https://live20.bozztv.com/akamaissh101/ssh101/platiniumtv/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Punto TV digital 40 RD
 https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist_w994883156.m3u8
@@ -121,16 +126,18 @@ https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Comunicaciones
 https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", Platzi TV Spain
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&pid=LTCub9Hc0S6lxql4lfIx6EA5IVq5TU5Q&sid=26MvEAXWIuBFqsHW9kPclTBsLby2uHjw&uid=TXd8yXrt03YJdnFUR5BnJ22ySCqWk2Ji&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1749641915220&ot=WbzzsdE6zm55O8E05JKttQ&proto=https&pz=us
+#EXTINF:-1 group-title="Argentina", Roca vision RD
+https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 #EXTINF:-1 group-title="Argentina", Zonavision TV RD
-https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d_output_0.m3u8?session=dvoGdBvSy36YhVCBu2Vxtx
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d_output_0.m3u8?session=i3Bg9KBeXZ4sXfPLcrJwPD
 #EXTINF:-1 group-title="Argentina", Constanza RD
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", La descarga RD
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 group-title="Argentina", Cascara TV RD
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist_w1992750624.m3u8
+#EXTINF:-1 group-title="Argentina", Telecanal 12 RD
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1 group-title="Argentina", Solo Estrenos 24/7 
 https://live20.bozztv.com/akamaissh101/ssh101/2410samuel/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Vision TV G
@@ -143,7 +150,8 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1  group-title="Argentina", Nim G
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
+#EXTINF:-1  group-title="Argentina", TvFlorencia G
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1  group-title="Argentina", Canal9 Ixi G
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1  group-title="Argentina", Panashid G
