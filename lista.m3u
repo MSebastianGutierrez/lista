@@ -4,6 +4,8 @@
 https://www.youtube.com/watch?v=ry-BbIvyg2s&ab_channel=Tecno3F
 #EXTINF:-1  group-title="Clases", Calculo 1 clase 6
 https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhUqV&export=download&authuser=0
+#EXTINF:-1  group-title="Argentina", TyC Sport
+https://deportes2.ksdjugfsddeports.com:9091/4_/tracks-v1a1/mono.ts.m3u8?remote=191.82.47.216&token=38dc60ecb42c62039e7f850e5442607c9e6599b6-9ef1ae1fa76ef82515f805d4ea279982-1756094309-1756072709
 
 #EXTINF:-1  group-title="Argentina", Fox Sport 
 https://deportes2.ksdjugfsddeports.fun:9091/8_/index.m3u8?token=5401e2ca62e5979027974a771e76ec9c20ade57e-dca63748c2ae69ecdbd2d917ec902ccb-1754244832-1754223232&remote=191.82.29.241
@@ -59,6 +61,8 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Supercanal Pe
 https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Covatel Pe
+https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", NAT GEO EU
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", Cinecanal EU
