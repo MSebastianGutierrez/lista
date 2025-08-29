@@ -51,6 +51,10 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1  group-title="Argentina", NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1  group-title="Argentina", Pasiones 
+https://live2.saohgdasregions.fun:9091/51_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=1fa28a0182a017f1434d55a12fd30ea0063bc5e2-c00d7934933a92da2c40a31d1c02171f-1756494651-1756473051
+#EXTINF:-1  group-title="Argentina", TNT 
+https://live2.saohgdasregions.fun:9091/41_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=f91d9dfe07438b04d4c1a9e01773b5c523a332b6-4d06e2651217f645d1422340bb639180-1756495232-1756473632
 #EXTINF:-1  group-title="Argentina", WTV N
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", CTV H
@@ -66,7 +70,7 @@ https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", NAT GEO EU
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", Cinecanal EU
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-a1/mono.ts.m3u8
+https://live2.saohgdasregions.fun:9091/58_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=708a9ceb6eee0ed77c6808a59760f17cd97531af-86f79e4452aeb039b8f255eeb95f7b78-1756493500-1756471900
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
@@ -131,8 +135,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Roca vision RD
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
-#EXTINF:-1 group-title="Argentina", Zonavision TV RD
-https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d_output_0.m3u8?session=i3Bg9KBeXZ4sXfPLcrJwPD
+
 #EXTINF:-1 group-title="Argentina", Constanza RD
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", La descarga RD
