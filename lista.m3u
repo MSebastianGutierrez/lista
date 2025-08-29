@@ -119,7 +119,7 @@ https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist_w994883156.m3u8
 
 #EXTINF:-1 group-title="Argentina", Punto TV bolivia
-https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
+https://streaming.hostpannel.lat:19360/puntotv/1080p.m3u8
 
 #EXTINF:-1 group-title="Argentina", DelPueblo mediagroup
 https://live20.bozztv.com/akamaissh101/ssh101/atvcanal22/chunks.m3u8
