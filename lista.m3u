@@ -55,6 +55,8 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://live2.saohgdasregions.fun:9091/51_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=1fa28a0182a017f1434d55a12fd30ea0063bc5e2-c00d7934933a92da2c40a31d1c02171f-1756494651-1756473051
 #EXTINF:-1  group-title="Argentina", TNT 
 https://live2.saohgdasregions.fun:9091/41_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=f91d9dfe07438b04d4c1a9e01773b5c523a332b6-4d06e2651217f645d1422340bb639180-1756495232-1756473632
+#EXTINF:-1  group-title="Argentina", TNT Novelas
+https://live2.saohgdasregions.fun:9091/155_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=24aa37b214107bf7e89ed0eaa2ddf8b631e24db2-ecda9d76e39a956be5690b73f4ce3477-1756513714-1756492114
 #EXTINF:-1  group-title="Argentina", FX HD
 https://live2.saohgdasregions.fun:9091/70_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=3c193d3b571af4a7beb546c269267a3477062f46-ec03a51bafd820cf549946c5dd26228b-1756512096-1756490496
 #EXTINF:-1  group-title="Argentina", Cinemax
@@ -65,6 +67,17 @@ https://live2.saohgdasregions.fun:9091/39_/tracks-v1a1/mono.ts.m3u8?remote=191.8
 https://live2.saohgdasregions.fun:9091/74_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=25c56516ce520edf62256a560e6647580d83be27-db4ecbef9b8d82f7e17c69d6810b1dd5-1756512388-1756490788
 #EXTINF:-1  group-title="Argentina", Cartoon network
 https://live2.saohgdasregions.fun:9091/114_/tracks-v1a1/mono.ts.m3u8?__PROXY_IDENTIFIER__=true&remote=191.82.12.214&token=016a2eadb7c313106d0cb0dbed615abf095445e6-99a270be55c7d482a7cc0f01a07bb62e-1756512589-1756490989
+#EXTINF:-1  group-title="Argentina", SyFy
+https://live2.saohgdasregions.fun:9091/58_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=73ab57c884e9ae59bdea87bc7f02bd0ddde92ef7-65dcd603c21fa9be0732d25a6386e345-1756513372-1756491772
+#EXTINF:-1  group-title="Argentina", Paramount
+https://live2.saohgdasregions.fun:9091/83_/tracks-v1a1/mono.ts.m3u8?__PROXY_IDENTIFIER__=true&remote=191.82.12.214&token=ebad61186655f0b25ab8664af81ad05e9ea525c6-d3b36be11e536a2405a813fe4bb0ee07-1756513793-1756492193
+#EXTINF:-1  group-title="Argentina", FMH kids
+https://live2.saohgdasregions.fun:9091/157_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=8dd88e548954a36f4ce71c287337de4100b57fde-c46db1d78b601b97e2e3868574609d3d-1756513927-1756492327
+#EXTINF:-1  group-title="Argentina", Warner
+https://live2.saohgdasregions.fun:9091/150_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=a48ba26287f62452fe3b46b16e73a0cbdee5adb0-37808c83f7ae7fdb4979a65c3a73ad47-1756514090-1756492490
+#EXTINF:-1  group-title="Argentina", Paramount
+
+#EXTINF:-1  group-title="Argentina", Paramount
 
 #EXTINF:-1  group-title="Argentina", WTV N
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
@@ -127,12 +140,13 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Canal 10 CR
-https://acceso.radiosportstv.online:3285/stream/play.m3u8
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 
 #EXTINF:-1 group-title="Argentina", Punto TV digital 40 RD
 https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist_w994883156.m3u8
 
 #EXTINF:-1 group-title="Argentina", Punto TV bolivia
+https://live20.bozztv.com/akamaissh101/ssh101/punto/chunks.m3u8
 https://streaming.hostpannel.lat:19360/puntotv/1080p.m3u8
 
 #EXTINF:-1 group-title="Argentina", DelPueblo mediagroup
