@@ -157,8 +157,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Comunicaciones
 https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
-#EXTINF:-1 group-title="Argentina", Roca vision RD
-https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
+#EXTINF:-1 group-title="Argentina", Palin TV
+https://live20.bozztv.com/akamaissh101/ssh101/telepalin/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", Favhttps://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8 TV
+https://video.misistemareseller.com/minfavtv/minfavtv/chunklist_w551289823.m3u8
 
 #EXTINF:-1 group-title="Argentina", Constanza RD
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
@@ -364,6 +367,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
 #EXTINF:-1 group-title="Argentina", Univalle Bol TV
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1  group-title="Argentina", Cine Friki spain
+https://zylo-cinefriki-rakuten.amagi.tv/playlist360_p.m3u8
+
 #EXTINF:-1 group-title="Argentina", Atacama
 https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Riobamba Ec
@@ -476,11 +482,14 @@ http://animezonetv.net/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-#EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVision" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision (Tivify)
-https://d1ujfw1zyymzyd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/f523a753-9cbc-45a1-a01b-44aa5ea13b97/1.m3u8
+#EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVision" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision (Tivify) spain
+https://d1ujfw1zyymzyd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/7739b1f7-ce06-4ecf-a5e4-7b71c1c89ef2/1.m3u8
 
-#EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVisionClassic" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision Classic (Tivify)
-https://d82pyvmcw2kdc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/b33b7640-3a1d-452a-b88e-1efd5e2e24c1/1.m3u8
+#EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVisionClassic" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision Classic (Tivify) spain
+https://d82pyvmcw2kdc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/5f5d82c3-1a76-4ca9-adeb-44e854df6035/1.m3u8
+
+#EXTINF:-1  group-title="Argentina", Cine Friki spain
+https://zylo-cinefriki-rakuten.amagi.tv/playlist360_p.m3u8
 
 #EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",DF TV Animacion
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
