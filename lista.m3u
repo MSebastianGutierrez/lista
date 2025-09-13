@@ -139,6 +139,7 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Canal 10 CR
+https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 https://acceso.radiosportstv.online:3285/stream/play.m3u8
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 
@@ -484,9 +485,6 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVisionClassic" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision Classic (Tivify) spain
 https://d82pyvmcw2kdc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/1a5276af-465e-4300-a8f1-a24b63b77c3f/1.m3u8
-
-#EXTINF:-1  group-title="Argentina", Cine Friki spain
-https://zylo-cinefriki-rakuten.amagi.tv/playlist360_p.m3u8
 
 #EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",DF TV Animacion
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
