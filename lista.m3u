@@ -316,8 +316,9 @@ https://5e85d90130e77.streamlock.net/6014/6014/chunklist_w589737459.m3u8
 https://5e85d90130e77.streamlock.net/6028/6028/chunklist_w724732437.m3u8
 #EXTINF:-1  group-title="Argentina", Chilive G
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
-#EXTINF:-1  group-title="Argentina", Impresionante
-https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w72967217.m3u8
+#EXTINF:-1  group-title="Argentina", Canal 3 Impresionante
+https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
+
 #EXTINF:-1  group-title="Argentina", WOW cine TV
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", WOW TV
