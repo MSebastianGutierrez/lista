@@ -321,6 +321,7 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w72967217.m3u8
 #EXTINF:-1  group-title="Argentina", WOW cine TV
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", WOW TV
+https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=102602
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w2062373795_b2000000_slen.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 11 TuTV
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
