@@ -13,7 +13,7 @@ https://deportes2.ksdjugfsddeports.fun:9091/8_/index.m3u8?token=5401e2ca62e59790
 #EXTINF:-1  group-title="Argentina", Fox Sport premiun
 https://deportes2.ksdjugfsddeports.com:9091/33_/tracks-v1a1/mono.ts.m3u8?remote=191.82.14.75&token=ecd63d02a3c574c8788ac3270984cb57deba00f5-fc7b3bb65cd09e92b2c091d3afb0196d-1757271997-1757250397
 #EXTINF:-1  group-title="Argentina", Espn 1
-https://deportes2.ksdjugfsddeports.fun:9091/13_/index.m3u8?token=a35cf0e0e9c81a37cd54073fb4e17666b670b255-58c49f58900172fd14d48eeaf21ee4ab-1754244873-1754223273&remote=191.82.29.241
+https://mufc.envivotv.live/espnpremium/tracks-v1a1/mono.m3u8?remote=191.82.9.237&token=13b60ada04f2f9daf14a77420070bb49ca90c943-04685dc8cac4a8f3ec16975da2a2f755-1759101104-1759090304
 
 #EXTINF:-1  group-title="Argentina", Bein Sport 
 https://bein-esp-xumo.amagi.tv/playlistR480p.m3u8
@@ -558,6 +558,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-208343/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Argentina", Xiomoz
 https://live20.bozztv.com/akamaissh101/ssh101/xiomoz/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", PequeRadioTv 
+https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", ClasicosTV
+https://live20.bozztv.com/akamaissh101/ssh101/iptvclasicctv/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Moni TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
