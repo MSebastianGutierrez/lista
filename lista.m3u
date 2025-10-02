@@ -104,6 +104,12 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Multivision Gua
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:-1  group-title="Argentina", Telever RD
+https://soportedvb.click:3413/live/televerlive.m3u8
+#EXTINF:-1  group-title="Argentina", NuevaVision RD
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Solucion RD
+https://ss2.tvrdomi.com:1936/soluciontv/soluciontv/chunklist_w1879432955.m3u8
 #EXTINF:-1  group-title="Argentina", Valle nuevo RD
 https://media.streambrothers.com:1936/8262/8262/chunklist_w1718829737.m3u8
 #EXTINF:-1  group-title="Argentina", RSelva Pe
@@ -322,12 +328,9 @@ https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
 #EXTINF:-1  group-title="Argentina", WOW cine TV
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", WOW TV
-https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=102602
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w2062373795_b2000000_slen.m3u8
+https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=250972
 #EXTINF:-1  group-title="Argentina", Canal 11 TuTV
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
-#EXTINF:-1 group-title="Argentina", Telemetro RD
-https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
 #EXTINF:-1 group-title="Argentina", TeleMax RD
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
