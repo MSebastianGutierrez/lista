@@ -113,11 +113,14 @@ https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w332129526.m3u8
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
 #EXTINF:-1 group-title="Argentina", Canal 5 Vision Latina TV
-https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-VISIONLATINA5/VISIONLATINA5/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Canal 10 CR
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tv10costarica/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina", TV Centro CR
+https://cloud2.streaminglivehd.com:1936/8032/8032/chunklist_w689043044.m3u8
 
 #EXTINF:-1 group-title="Argentina", Punto TV digital 40 RD
 https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist_w994883156.m3u8
