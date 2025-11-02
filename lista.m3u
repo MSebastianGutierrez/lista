@@ -9,6 +9,9 @@ https://mrzvo.envivotv.live/tntsports/tracks-v1a1/mono.m3u8?remote=191.82.47.216
 #EXTINF:-1  group-title="Argentina", Fox Sport 
 https://3.betzta.com/foxsports/mono.m3u8?token=c8f1d6ed53eaa42278723b6d15f99c1552276a66-9-1761799068-1761781068
 
+#EXTINF:-1  group-title="Argentina", TNT Sport 
+https://5.betzta.com/tntsports/mono.m3u8?token=0b2412aa59a83cb2fe04aff07c4a0bcab45826a3-93-1762135054-1762117054
+
 #EXTINF:-1  group-title="Argentina", Fox Sport premiun
 https://deportes2.ksdjugfsddeports.com:9091/33_/tracks-v1a1/mono.ts.m3u8?remote=191.82.14.75&token=ecd63d02a3c574c8788ac3270984cb57deba00f5-fc7b3bb65cd09e92b2c091d3afb0196d-1757271997-1757250397
 #EXTINF:-1  group-title="Argentina", Espn 1
