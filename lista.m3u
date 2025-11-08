@@ -233,7 +233,10 @@ https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 https://media.streambrothers.com:1936/8262/8262/chunklist_w5044692.m3u8
 #EXTINF:-1  group-title="Argentina", Area 809 El original RD
 https://vdo.voxhdnet.com:3159/stream/play.m3u8
-
+#EXTINF:-1  group-title="Argentina", JPD RD
+https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
+#EXTINF:-1  group-title="Argentina", Guaymate RD
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/chunks.m3u8
 
 #EXTINF:-1  group-title="Argentina", TVO RD
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
