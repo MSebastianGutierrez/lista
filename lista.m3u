@@ -348,6 +348,7 @@ https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1474821475.m3u8
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
 #EXTINF:-1 group-title="Argentina",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Argentina",Punto2 P R
