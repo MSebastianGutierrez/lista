@@ -350,7 +350,21 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
 #EXTINF:-1 group-title="Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Argentina",Canal 21 arg
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina",4 HD arg
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/chunks.m3u8
+
+#EXTINF:-1 group-title="Argentina",13 Medios TV arg
+https://stream.arcast.net:4443/mp/mp/chunklist_w1092312905.m3u8
+
+#EXTINF:-1 group-title="Argentina",Latina Arg
+https://stmvideo6.livecastv.com/latina/latina/chunklist_w82377766.m3u8
+
+#EXTINF:-1 group-title="Argentina",TV Centro
+https://cloud2.streaminglivehd.com:1936/8032/8032/chunklist_w587503242.m3u8
 
 #EXTINF:-1 group-title="Argentina",Punto2 P R
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_540.m3u8
