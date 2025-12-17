@@ -83,16 +83,13 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1  group-title="Argentina", Telever RD
 https://soportedvb.click:3413/live/televerlive.m3u8
-#EXTINF:-1  group-title="Argentina", NuevaVision RD
-https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8
+
 #EXTINF:-1  group-title="Argentina", Solucion RD
 https://ss2.tvrdomi.com:1936/soluciontv/soluciontv/chunklist_w1879432955.m3u8
 #EXTINF:-1  group-title="Argentina", RSelva Pe
 https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina",GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=u30l4vcy
-#EXTINF:-1  group-title="Argentina",Estacion TV ch
-https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Argentina", Next hd Pa
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
@@ -106,7 +103,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Invasiva
 https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
-https://mitv.zplay.cl/Invasiva/tracks-v1a1/2025/11/21/13/36/27-05400.ts
 
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w332129526.m3u8
