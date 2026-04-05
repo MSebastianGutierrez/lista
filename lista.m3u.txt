@@ -52,8 +52,7 @@ Binvasi
 #EXTINF:-1  group-title="Argentina", Canal 7 
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1  group-title="Argentina", NEOX TV
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-
+https://neoxtv.digitalnoa.com.ar/memfs/57ccca32-78e8-43e1-b023-a40906492f5e_output_0.m3u8?
 
 #EXTINF:-1  group-title="Argentina", WTV P
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
@@ -252,8 +251,8 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 https://66b3a8363297d.streamlock.net/megavision/MV/chunklist_w1572828595.m3u8
 #EXTINF:-1  group-title="Argentina", GAMTV CR
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Argentina", TicaVision CR
-https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w512711630.m3u8
+#EXTINF:-1  group-title="Argentina", CDTV 
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  group-title="Argentina", ValleVision CR
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w883774443.m3u8
