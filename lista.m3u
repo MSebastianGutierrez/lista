@@ -70,6 +70,12 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1  group-title="Argentina", Viva TV Pe
 https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Chavo del 8 24/7 
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", Ent Channel United K
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", Ent Family United K
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1  group-title="Argentina", Supercanal Pe
 https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
@@ -80,8 +86,8 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/tracks-v3a1/mon
 #EXTINF:-1  group-title="Argentina", Cinecanal EU
 https://live2.saohgdasregions.fun:9091/58_/tracks-v1a1/mono.ts.m3u8?remote=191.82.12.214&token=708a9ceb6eee0ed77c6808a59760f17cd97531af-86f79e4452aeb039b8f255eeb95f7b78-1756493500-1756471900
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1  group-title="Argentina", Cinecanal
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", Wise TV UE
+https://live.enhdtv.com:8081/8150/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Pituco TV D
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV D
@@ -447,10 +453,9 @@ http://animezonetv.net/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVision" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision (Tivify) spain
-https://d1ujfw1zyymzyd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/908bd068-cf6b-41e7-bbda-b0db232d6dd5/1.m3u8
-
+https://d1ujfw1zyymzyd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/223a8295-b7a0-4b7e-82d7-efd995865c4a/1.m3u8
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVisionClassic" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision Classic (Tivify) spain
-https://d82pyvmcw2kdc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/a956b948-ac40-4cc4-8e75-8a4f7a2ab8c2/1.m3u8
+https://d82pyvmcw2kdc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/83961aaa-f88d-4a63-8e0c-21d89b6a434d/1.m3u8
 
 #EXTINF:-1 tvg-id="Energeek-13" tvg-logo="" group-title="Argentina",DF TV Animacion
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
