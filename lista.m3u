@@ -52,7 +52,7 @@ Binvasi
 #EXTINF:-1  group-title="Argentina", Canal 7 
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1  group-title="Argentina", NEOX TV
-https://neoxtv.digitalnoa.com.ar/memfs/57ccca32-78e8-43e1-b023-a40906492f5e_output_0.m3u8?
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8?
 
 #EXTINF:-1  group-title="Argentina", WTV P
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
@@ -88,6 +88,10 @@ https://live2.saohgdasregions.fun:9091/58_/tracks-v1a1/mono.ts.m3u8?remote=191.8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", Wise TV UE
 https://live.enhdtv.com:8081/8150/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Villa Altagracia D
+https://inliveserver.com:1936/10016/10016/chunklist_w552932083.m3u8
+#EXTINF:-1  group-title="Argentina", Vision NDV D
+https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1  group-title="Argentina", Pituco TV D
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV D
