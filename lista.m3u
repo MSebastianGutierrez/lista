@@ -29,10 +29,10 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w263740062.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", ExitosTV DR
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
-#EXTINF:-1  group-title="Argentina", Canal ONE
-https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
-#EXTINF:-1  group-title="Argentina",Quantica
-https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1  group-title="Argentina", 360 RFTV CR
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+#EXTINF:-1  group-title="Argentina",Antena seis CR
+https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina",Colosal clasicos
 https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/chunklist_w1070237959.m3u8
 
@@ -91,8 +91,8 @@ https://live.enhdtv.com:8081/8150/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Pituco TV D
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV D
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="Argentina", Multivision Gua
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1  group-title="Argentina", Telever RD
@@ -326,9 +326,6 @@ https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1  group-title="Argentina", STC Chaco
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 
-#EXTINF:-1  group-title="Argentina", CISCTV
-https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
-
 #EXTINF:-1  group-title="Argentina", Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
@@ -343,7 +340,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlis
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
 #EXTINF:-1 group-title="Argentina",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
+https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="Argentina",Canal 21 arg
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
@@ -358,7 +355,8 @@ https://stream.arcast.net:4443/mp/mp/chunklist_w1092312905.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_540.m3u8
 
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
+
 
 #EXTINF:-1  group-title="Argentina", Telesol V
 https://vcp15.myplaytv.com/telesoltv/telesoltv/chunklist_w1215895705.m3u8
@@ -425,7 +423,8 @@ http://177.234.230.206:8011/play/a0pt
 http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodix.com%2Flogos%2F2192953&psig=AOvVaw3aHymI1exY-ZjupRY1SyIb&ust=1746008842956000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjS7ICE_YwDFQAAAAAdAAAAABAJ" group-title="Argentina",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
+http://locomotiontv.com/envivo/xtv/m3u
+http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimeVision" tvg-name="AnimeVision" tvg-logo="https://ejemplo.com/logo.png" group-title="Argentina",AnimeVision (Tivify) spain
 https://d1ujfw1zyymzyd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/223a8295-b7a0-4b7e-82d7-efd995865c4a/1.m3u8
