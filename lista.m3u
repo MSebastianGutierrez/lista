@@ -35,6 +35,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", F1
 	https://dglvz29s.fubo18.com/espn2/mono.m3u8?token=07000530181320efe7bdde53dfefb14cd369173b-1b-1781374370-1781356370
 
+#EXTINF:-1  group-title="Argentina", Fox sport
+https://dglvz29s.fubo18.com/foxsports/mono.m3u8?token=25b8eee1920d36719498f29b2880d5650cbf07f9-b5-1781376696-1781358696
+
 #EXTINF:-1  group-title="Argentina", WTV P
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
