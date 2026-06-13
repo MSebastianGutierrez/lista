@@ -33,7 +33,7 @@ https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8?
 #EXTINF:-1  group-title="Argentina", NET Arg
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", F1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/1752763134308item-08item_Segment-7314412.mp4
+	https://dglvz29s.fubo18.com/espn2/mono.m3u8?token=07000530181320efe7bdde53dfefb14cd369173b-1b-1781374370-1781356370
 
 #EXTINF:-1  group-title="Argentina", WTV P
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
