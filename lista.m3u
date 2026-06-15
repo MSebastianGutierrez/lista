@@ -32,8 +32,10 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8?
 #EXTINF:-1  group-title="Argentina", NET Arg
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1  group-title="Argentina",Milennio tv Arg
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1  group-title="Argentina", F1
-https://khala.skylivehd.com/dsports/index.m3u8?ip=186.122.1.182&token=d152a1f8d0db270a71aa773b0d055353b09ddaff-10-1781499509-1781445509
+https://khala.skylivehd.com/dsportsplus/index.m3u8?ip=186.122.1.182&token=8d4b812624ab364e401823cb4c2fa2782b01fafc-cf-1781598914-1781544914
 
 #EXTINF:-1  group-title="Argentina", Fox sport
 https://c2nvdxq.fubo18.com/foxsports/mono.m3u8?token=1fb4ef5f9740a0e7ba71e3c5795a2586f6ba487d-9b-1781456587-1781438587
