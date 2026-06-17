@@ -35,8 +35,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1  group-title="Argentina",Milennio tv Arg
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1  group-title="Argentina", F1
-
-https://khala.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=0a5ed008337a314215b14a2b9aba3df9d0f03378-63-1781618963-1781564963
+https://khala.skylivehd.com/dsportsplus/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=f7da29e102bff06b057ae89c4485552ef96c3e85-7e-1781767005-1781713005
 
 #EXTINF:-1  group-title="Argentina", Fox sport
 https://c2nvdxq.fubo18.com/foxsports/mono.m3u8?token=1fb4ef5f9740a0e7ba71e3c5795a2586f6ba487d-9b-1781456587-1781438587
