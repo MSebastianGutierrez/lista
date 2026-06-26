@@ -39,9 +39,10 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 https://khala.skylivehd.com/dsportsplus/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=a73ffbdb8cd5bd730b73cfbff837effd597ab59d-87-1782273571-1782219571
 
 #EXTINF:-1  group-title="Argentina", DtvSport
-https://khala.skylivehd.com/americatv/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=4f1bdca0146eec73433995a59ffc29827aba0fe7-05-1782111706-1782057706
-#EXTINF:-1  group-title="Argentina", Fox sport
-https://khala.skylivehd.com/telemundo/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=8ba8d55b4b4e5eed31141cd5d92ec3ec8edf23cb-e7-1782273664-1782219664
+https://mileixd.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=e0c6014da14353ef3452c1fc69c143caf7c39ef7-10-1782527837-1782473837#EXTINF:-1  group-title="Argentina", Fox sport
+https://deportes.ksdjugfsddeports.com:9092/MTg2LjEyMi4xLjE4Mg==/8_.m3u8?token=2OZqZ9APsV_P6ugQmbYL5w&expires=1782514855
+#EXTINF:-1  group-title="Argentina", TyC sport
+https://mileixd.skylivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=047658b9c7cfd0d0485c079834795d6dde859c5c-1f-1782527788-1782473788
 
 #EXTINF:-1  group-title="Argentina", WTV P
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
