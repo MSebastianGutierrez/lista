@@ -38,9 +38,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 https://khala.skylivehd.com/dsportsplus/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=a73ffbdb8cd5bd730b73cfbff837effd597ab59d-87-1782273571-1782219571
 
 #EXTINF:-1  group-title="Argentina", DtvSport
-https://mileixd.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=e0c6014da14353ef3452c1fc69c143caf7c39ef7-10-1782527837-1782473837
+https://mileixd.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=0463b1aefed8a975114986bd9958116c959f620a-21-1782608750-1782554750
 #EXTINF:-1  group-title="Argentina", Fox sport
-https://deportes.ksdjugfsddeports.com:9092/MTg2LjEyMi4xLjE4Mg==/8_.m3u8?token=2OZqZ9APsV_P6ugQmbYL5w&expires=1782514855
+https://deportes.ksdjugfsddeports.com:9092/MTg2LjEyMi4xLjE4Mg==/8_.m3u8?token=M-bOZFwrwABwISpETMGlow&expires=1782595927
 #EXTINF:-1  group-title="Argentina", TyC sport
 https://mileixd.skylivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=047658b9c7cfd0d0485c079834795d6dde859c5c-1f-1782527788-1782473788
 
@@ -332,8 +332,7 @@ https://de9yx47crxs6l.cloudfront.net/playlist_7.m3u8
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1474821475.m3u8
 
 #EXTINF:-1  group-title="Argentina", telefe alternativo
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+https://khala.skylivehd.com/telefe/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=51c0b04b331c31d29bf469988b049b4818ccf96a-14-1782609603-1782555603
 
 #EXTINF:-1 group-title="Argentina",El Trece
 https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
