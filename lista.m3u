@@ -109,7 +109,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Invasiva
-https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
+https://cdn.cl.scl.edge.01.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-name="Bayres TV" tvg-logo="https://ejemplo.com/logo-bayrestv.png" group-title="Argentina",Bayres TV
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w332129526.m3u8
