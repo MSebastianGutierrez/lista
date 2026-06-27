@@ -34,15 +34,14 @@ https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8?
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 #EXTINF:-1  group-title="Argentina", F1
-
-https://khala.skylivehd.com/dsportsplus/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=a73ffbdb8cd5bd730b73cfbff837effd597ab59d-87-1782273571-1782219571
+https://mileixd.skylivehd.com/disney9/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=246cbb5e0b0755878cd5860f2bf0b6ceaf2a56e6-db-1782648228-1782594228
 
 #EXTINF:-1  group-title="Argentina", DtvSport
 https://mileixd.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=0463b1aefed8a975114986bd9958116c959f620a-21-1782608750-1782554750
 #EXTINF:-1  group-title="Argentina", Fox sport
 https://deportes.ksdjugfsddeports.com:9092/MTg2LjEyMi4xLjE4Mg==/8_.m3u8?token=M-bOZFwrwABwISpETMGlow&expires=1782595927
 #EXTINF:-1  group-title="Argentina", TyC sport
-https://mileixd.skylivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=047658b9c7cfd0d0485c079834795d6dde859c5c-1f-1782527788-1782473788
+https://mileixd.skylivehd.com/telemundo/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=ba046dcd60ac32004b9c1174c3af215c29f1496d-ef-1782648302-1782594302
 
 #EXTINF:-1  group-title="Argentina", WTV P
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
