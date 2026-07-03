@@ -38,10 +38,10 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 https://khala.skylivehd.com/canal5mx/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=58e24b7ac410314c3c4e45d380c62b811305edbb-76-1783064745-1783010745
 
 #EXTINF:-1  group-title="Argentina", DtvSport
-https://khala.skylivehd.com/dsports/tracks-v1a1/2026/07/03/14/32/39-05000.ts?token=0f32d07d759a3b3bc6378b407d8dc66b4f7e4d69-e3-1783134102-1783080102
+https://khala.skylivehd.com/dsports/tracks-v1a1/2026/07/03/15/13/11-05000.ts?token=0f32d07d759a3b3bc6378b407d8dc66b4f7e4d69-e3-1783134102-1783080102
 
 #EXTINF:-1  group-title="Argentina", Fox sport
-https://khala.skylivehd.com/fox1ar/tracks-v1a1/2026/07/03/14/28/35-06006.ts?token=20fa0ee38be3e80737bfe81e8346c0ae81976d07-42-1783133853-1783079853
+https://khala.skylivehd.com/fox1ar/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=1b2557a4842bfb4e6cfad756f47f6dd30f709a69-95-1783136582-1783082582
 #EXTINF:-1  group-title="Argentina", TyC sport
 https://khala.skylivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=62f90edd2e421bdffe5f7b063640b40f6b420197-03-1782715534-1782661534
 
