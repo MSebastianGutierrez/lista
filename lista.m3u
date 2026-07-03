@@ -334,7 +334,7 @@ https://de9yx47crxs6l.cloudfront.net/playlist_7.m3u8
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1474821475.m3u8
 
 #EXTINF:-1  group-title="Argentina", telefe alternativo
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/a91f993e-acad-4093-8917-df860d4e28a7:MRN2/variant/1b42da22ff97bf390d7fe0dbaab7ba1f/bandwidth/1808281.m3u8?aid=69dfb44d09ecc98dc876969f&uid=svyK0Cw1PaR4r38ZYvlyZ22cASlDVBmc&sid=VsG691tE5YRhBE0Nq51slGzLtNWAeWSv&pid=LbYNd8A9BJnCAtSaXyCBdoHNrbp3s1bi&pid_dvr=Op9b5ArsIdYR4qHwEmm3dBMo6daWlUpR&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=BVi2qbhrxzD1XV5IbcgrSGZufjNe1ADJpDd31ekRhbo8ZYpTSQD8a45CaavEN5d3XGBM8VIptDE&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D50300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22LbYNd8A9BJnCAtSaXyCBdoHNrbp3s1bi%22&adInsertionGoogleStreamId=a91f993e-acad-4093-8917-df860d4e28a7%3AMRN2&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1783189674595&ot=W5hz2Ki_shoMaqJIDEm8RQ&proto=https&pz=us
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 group-title="Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
