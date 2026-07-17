@@ -35,7 +35,7 @@ https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8?
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 #EXTINF:-1  group-title="Argentina", F1
-https://khala.skylivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=e4b0a46590d7c712eb4052be7c4782d60652677c-c7-1783301802-1783247802
+https://khala.skylivehd.com/fox1ar/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=c1c893cf2ad4182503de482013171181e80b4aa0-e8-1784345187-1784291187
 
 #EXTINF:-1  group-title="Argentina", DtvSport
 https://khala.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=c5711dc30cb64cc3f5e43ce03d5e395cfadcbccc-61-1783849125-1783795125
