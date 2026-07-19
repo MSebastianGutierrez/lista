@@ -80,6 +80,13 @@ EXTINF:-1  group-title="Argentina", Waira Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 EXTINF:-1  group-title="Argentina", TV+ Chincha Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+EXTINF:-1  group-title="Argentina", Lider TV Pe
+https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
+
+EXTINF:-1  group-title="Argentina", Delta TV Pe
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+EXTINF:-1  group-title="Argentina", ATV Pe
+https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1  group-title="Argentina", Canal 8 CVS Par
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
