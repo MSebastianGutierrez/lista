@@ -76,22 +76,28 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/m
 
 #EXTINF:-1  group-title="Argentina", Latina Pe
 https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/6c89110d-0a9c-4729-82af-ed88b886efbd:SCL2/variant/dca78385fa6e9d55f2ddb5fe349781a5/bandwidth/768644.m3u8
+
 EXTINF:-1  group-title="Argentina", Waira Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
+
 EXTINF:-1  group-title="Argentina", TV+ Chincha Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
 EXTINF:-1  group-title="Argentina", Lider TV Pe
 https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
 
 EXTINF:-1  group-title="Argentina", Delta TV Pe
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+
 EXTINF:-1  group-title="Argentina", ATV Pe
 https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1  group-title="Argentina", Canal 8 CVS Par
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+
 #EXTINF:-1  group-title="Argentina", Vision NDV D
 https://soportedvb.click:3891/live/visionndvlive.m3u8
+
 #EXTINF:-1  group-title="Argentina", Pituco TV D
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1  group-title="Argentina", MegaCine TV D
