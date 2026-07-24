@@ -74,9 +74,6 @@ https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
 
-#EXTINF:-1  group-title="Argentina", Latina Pe
-https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/6c89110d-0a9c-4729-82af-ed88b886efbd:SCL2/variant/dca78385fa6e9d55f2ddb5fe349781a5/bandwidth/768644.m3u8
-
 EXTINF:-1  group-title="Argentina", Waira Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 
