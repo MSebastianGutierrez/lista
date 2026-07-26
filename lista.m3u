@@ -37,8 +37,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", F1
 https://a50.azplay46.me/hls/streama242914/index.m3u8?cst=33dd31e360e1499250f5279fe696fd7e
 
-#EXTINF:-1  group-title="Argentina", DtvSport
-https://khala.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=a2486a6e1533802166bd4511956c886a5b7da824-09-1784440670-1784386670
+#EXTINF:-1  group-title="Argentina", Dazn F1
+https://p1.domain761.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=31d8177912764db2ed765c8607931ed156f5e91e-50-1785112741-1785058741
 
 #EXTINF:-1  group-title="Argentina", Fox sport
 https://khala.skylivehd.com/fox1ar/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=320c2baa3370f362e86226d454d6964d31684501-0a-1783301477-1783247477
