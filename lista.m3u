@@ -3,7 +3,8 @@
 https://www.youtube.com/watch?v=ry-BbIvyg2s&ab_channel=Tecno3F
 #EXTINF:-1  group-title="Clases", Calculo 1 clase 6
 https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhUqV&export=download&authuser=0
-
+#EXTINF:-1  group-title="Argentina", Showsport Arg
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 
 #EXTINF:-1  group-title="Argentina", F1
 https://p1.domain761.sbs/espn/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=283c496c7ee6da8eba314ff765447605681be7f2-31-1785112902-1785058902
@@ -109,7 +110,9 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=u30l4vcy
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
-#EXTINF:-1 group-title="Argentina", Next hd Pa
+#EXTINF:-1 group-title="Argentina", Next hd arg
+https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Argentina", Next hd arg
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 group-title="Argentina", Apanines TV
 https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
