@@ -4,14 +4,20 @@ https://www.youtube.com/watch?v=ry-BbIvyg2s&ab_channel=Tecno3F
 #EXTINF:-1  group-title="Clases", Calculo 1 clase 6
 https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhUqV&export=download&authuser=0
 
+
+#EXTINF:-1  group-title="Argentina", F1
+https://p1.domain761.sbs/espn/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=283c496c7ee6da8eba314ff765447605681be7f2-31-1785112902-1785058902
+
+#EXTINF:-1  group-title="Argentina", Dazn F1
+https://p1.domain761.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=31d8177912764db2ed765c8607931ed156f5e91e-50-1785112741-1785058741
+
+#EXTINF:-1  group-title="Argentina", Fox sport
+https://khala.skylivehd.com/fox1ar/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=320c2baa3370f362e86226d454d6964d31684501-0a-1783301477-1783247477
+
 #EXTINF:-1  group-title="Argentina", ExitosTV DR
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 #EXTINF:-1  group-title="Argentina", 360 RFTV CR
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-#EXTINF:-1  group-title="Argentina",Antena seis CR
-https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Argentina",Colosal clasicos
-https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/chunklist_w1070237959.m3u8
 
 #EXTINF:-1  group-title="Argentina", Pelicula 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
@@ -31,20 +37,6 @@ https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 
 #EXTINF:-1  group-title="Argentina", NEOX TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8?
-#EXTINF:-1  group-title="Argentina", NET Arg
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-
-#EXTINF:-1  group-title="Argentina", F1
-https://p1.domain761.sbs/espn/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=283c496c7ee6da8eba314ff765447605681be7f2-31-1785112902-1785058902
-
-#EXTINF:-1  group-title="Argentina", Dazn F1
-https://p1.domain761.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=31d8177912764db2ed765c8607931ed156f5e91e-50-1785112741-1785058741
-
-#EXTINF:-1  group-title="Argentina", Fox sport
-https://khala.skylivehd.com/fox1ar/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=320c2baa3370f362e86226d454d6964d31684501-0a-1783301477-1783247477
-
-#EXTINF:-1  group-title="Argentina", TyC sport
-https://khala.skylivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=62f90edd2e421bdffe5f7b063640b40f6b420197-03-1782715534-1782661534
 
 #EXTINF:-1  group-title="Argentina", WTV P
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
@@ -74,19 +66,19 @@ https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
 
-EXTINF:-1  group-title="Argentina", Waira Pe
+#EXTINF:-1  group-title="Argentina", Waira Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 
-EXTINF:-1  group-title="Argentina", TV+ Chincha Pe
+#EXTINF:-1  group-title="Argentina", TV+ Chincha Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 
-EXTINF:-1  group-title="Argentina", Lider TV Pe
+#EXTINF:-1  group-title="Argentina", Lider TV Pe
 https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
 
-EXTINF:-1  group-title="Argentina", Delta TV Pe
+#EXTINF:-1  group-title="Argentina", Delta TV Pe
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 
-EXTINF:-1  group-title="Argentina", ATV Pe
+#EXTINF:-1  group-title="Argentina", ATV Pe
 https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1  group-title="Argentina", Canal 8 CVS Par
