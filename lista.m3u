@@ -65,15 +65,20 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-
 https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Covatel Pe
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", Canal IPe Pe
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/chunks.m3u8?nimblesessionid=635081686
 #EXTINF:-1  group-title="Argentina", Andes Pe
 https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", Unicentro Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Siscom Pe
 https://video2.lhdserver.es/siscomtv/live.m3u8
+#EXTINF:-1  group-title="Argentina", MO Pe
+https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Zeleve Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Millenium 109 Pe
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1  group-title="Argentina", Telecolor Pe
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Waira Pe
@@ -82,7 +87,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 https://tv.sistemasandinos.org/rumbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", TV+ Chincha Pe
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
-
+#EXTINF:-1  group-title="Argentina", NZK Pe
+https://eu1.servers10.com:8081/8258/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Prattel TV Pe
+https://183.bozztv.com/ssh101/ssh101/pratteltvperu/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Lider TV Pe
 https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
 
@@ -135,7 +143,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
 
 #EXTINF:-1 group-title="Argentina", Invasiva
-https://cdn.cl.scl.edge.01.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
+https://video.wilohosting.com:19360/invasivatv/invasivatv.m3u8
 
 #EXTINF:-1 group-title="Argentina",Bayres TV
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w332129526.m3u8
