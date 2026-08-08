@@ -66,7 +66,7 @@ https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Covatel Pe
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", Canal IPe Pe
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/chunks.m3u8?nimblesessionid=635081686
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/chunks.m3u8?
 #EXTINF:-1  group-title="Argentina", Andes Pe
 https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", Unicentro Pe
@@ -96,7 +96,10 @@ https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  group-title="Argentina", Delta TV Pe
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
-
+#EXTINF:-1  group-title="Argentina", Selva TV Pe
+https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
+#EXTINF:-1  group-title="Argentina", Unitel Pe
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", ATV Pe
 https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
