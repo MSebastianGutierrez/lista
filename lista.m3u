@@ -15,8 +15,8 @@ https://p1.domain761.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=31d
 #EXTINF:-1  group-title="Argentina", Fox sport
 https://khala.skylivehd.com/fox1ar/tracks-v1a1/mono.m3u8?ip=186.122.1.182&token=320c2baa3370f362e86226d454d6964d31684501-0a-1783301477-1783247477
 
-#EXTINF:-1  group-title="Argentina", ExitosTV DR
-https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1  group-title="Argentina", StarChannel Guate
+https://streamer.metronethn.com/StarChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", 360 RFTV CR
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 
@@ -60,13 +60,15 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", Ent Family United K
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+EXTINF:-1  group-title="Argentina", TV8 CR
+https://k20.usastreams.com:8081/tv8/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1  group-title="Argentina", Supercanal Pe
 https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Covatel Pe
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="Argentina", Canal IPe Pe
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/chunks.m3u8?
+#EXTINF:-1  group-title="Argentina", CVN Pe
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:-1  group-title="Argentina", Andes Pe
 https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", Unicentro Pe
