@@ -60,16 +60,22 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", Ent Family United K
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="Argentina", TV8 CR
-https://k20.usastreams.com:8081/tv8/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", CR Pe
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Santa Cruz RD
 https://host.streamingnation.live/p/3345/hybrid/play.m3u8
 #EXTINF:-1  group-title="Argentina", Supercanal Pe
 https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", LotPlus Pe
+https://ontvcable.streamottmas.workers.dev/?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatv%2Fgiatv-Ontv%2FOntv%2Fchunks.m3u8
 #EXTINF:-1  group-title="Argentina", Covatel Pe
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Argentina", CVN Pe
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+#EXTINF:-1  group-title="Argentina", RikuTV Pe
+https://amixtv.com:8081/rikutv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", TvBellaAsuncion Pe
+https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1  group-title="Argentina", Andes Pe
 https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1  group-title="Argentina", Unicentro Pe
@@ -105,9 +111,15 @@ https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
 https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", ATV Pe
 https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
-
+#EXTINF:-1  group-title="Argentina", Ucayalina Pe
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 8 CVS Par
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+
+#EXTINF:-1  group-title="Argentina", FX latin Arg
+https://streamer.metronethn.com/FX/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Argentina", Canal 3 pinamar Arg
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 #EXTINF:-1  group-title="Argentina", Vision NDV D
 https://soportedvb.click:3891/live/visionndvlive.m3u8
@@ -247,8 +259,7 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1  group-title="Argentina", Plus TV Ec
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1  group-title="Argentina", CR Pe
-https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="Argentina", Planeta TV Pe
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Canal mas TV Col
