@@ -120,6 +120,8 @@ https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 https://streamer.metronethn.com/FX/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 3 pinamar Arg
 https://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:-1  group-title="Argentina", Caras TV Arg
+https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream2/chunks.m3u8?
 
 #EXTINF:-1  group-title="Argentina", Vision NDV D
 https://soportedvb.click:3891/live/visionndvlive.m3u8
