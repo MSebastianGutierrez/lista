@@ -1,8 +1,19 @@
+#EXTINF:-1  group-title="Argentina", Chavo del 8 24/7 
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1  group-title="Clases",Clase 3 de IA
-https://www.youtube.com/watch?v=ry-BbIvyg2s&ab_channel=Tecno3F
-#EXTINF:-1  group-title="Clases", Calculo 1 clase 6
-https://drive.usercontent.google.com/download?id=1dfQW5RZxZNj9ILeX6ZdlcQXq_wuuhUqV&export=download&authuser=0
+#EXTINF:-1  group-title="Argentina", Pelicula 1
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 2
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 3
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 4
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 5
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
+#EXTINF:-1  group-title="Argentina", Pelicula 6
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
+
 #EXTINF:-1  group-title="Argentina", Showsport Arg
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 
@@ -20,22 +31,6 @@ https://streamer.metronethn.com/StarChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", 360 RFTV CR
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 
-#EXTINF:-1  group-title="Argentina", Pelicula 1
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
-#EXTINF:-1  group-title="Argentina", Pelicula 2
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
-#EXTINF:-1  group-title="Argentina", Pelicula 3
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
-#EXTINF:-1  group-title="Argentina", Pelicula 4
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
-#EXTINF:-1  group-title="Argentina", Pelicula 5
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
-#EXTINF:-1  group-title="Argentina", Pelicula 6
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
-Binvasi
-#EXTINF:-1  group-title="Argentina", Canal 7 
-https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
-
 #EXTINF:-1  group-title="Argentina", NEOX TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8?
 
@@ -47,19 +42,45 @@ https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
 #EXTINF:-1  group-title="Argentina", CTV H
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="Argentina", Via Pe
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="Argentina", Uranio TV Pe
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  group-title="Argentina", Viva TV Pe
 https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Argentina", Chavo del 8 24/7 
-https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="Argentina", Ent Channel United K
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="Argentina", Ent Family United K
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="Argentina", Canal 11 chaco
+https://live20.bozztv.com/giatv/giatv-ojodigital/ojodigital/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", Metro 12 
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8 
+
+#EXTINF:-1  group-title="Argentina", Play TV
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1  group-title="Argentina", Five TV
+https://panel.host-live.com:19360/8118/8118.m3u8
+#EXTINF:-1  group-title="Argentina", Telecreativa
+https://panel.host-live.com:19360/8012/8012.m3u8
+#EXTINF:-1  group-title="Argentina", TIV Chaco
+https://videohd.live:19360/8008/8008.m3u8
+
+#EXTINF:-1  group-title="Argentina", STC Chaco
+https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
+#EXTINF:-1  group-title="Argentina", Cosmo TV SJ
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1  group-title="Argentina", MiTV Pa
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w321976628.m3u8
+#EXTINF:-1  group-title="Argentina", Caucete SanJuan
+https://canalsj.kozow.com/canal40/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
+https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
+
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/logo.png" group-title="Argentina",Cinco TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
 #EXTINF:-1  group-title="Argentina", CR Pe
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Santa Cruz RD
@@ -342,22 +363,7 @@ https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/chunks.m3u8
 https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", Riobamba Ec
 https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1098625645.m3u8
-#EXTINF:-1  group-title="Argentina", Canal 11 chaco
-https://live20.bozztv.com/giatv/giatv-ojodigital/ojodigital/chunks.m3u8
-#EXTINF:-1  group-title="Argentina", Metro 12 
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8 
 
-#EXTINF:-1  group-title="Argentina", Play TV
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1  group-title="Argentina", Five TV
-https://panel.host-live.com:19360/8118/8118.m3u8
-#EXTINF:-1  group-title="Argentina", Telecreativa
-https://panel.host-live.com:19360/8012/8012.m3u8
-#EXTINF:-1  group-title="Argentina", TIV Chaco
-https://videohd.live:19360/8008/8008.m3u8
-
-#EXTINF:-1  group-title="Argentina", STC Chaco
-https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 
 #EXTINF:-1  group-title="Argentina", Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
@@ -389,23 +395,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_5
 #EXTINF:-1  group-title="Argentina", Canal 9 televida
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 
-#EXTINF:-1  group-title="Argentina", Cosmo TV SJ
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1  group-title="Argentina", MiTV Pa
-https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w321976628.m3u8
+
 #EXTINF:-1  group-title="Argentina", Telesol SanJuan
 https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", Canal 4 SanJuan
 https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w327404829.m3u8
 
-#EXTINF:-1  group-title="Argentina", Caucete SanJuan
-https://canalsj.kozow.com/canal40/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Canal34.ar" tvg-name="Canal 34 San Juan" tvg-logo="https://i.imgur.com/LOGO.png" group-title="Argentina",Canal 34 San Juan
-https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
-
-#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/logo.png" group-title="Argentina",Cinco TV
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-id="BluMedios.co" tvg-logo="https://i.imgur.com/blumedios.png" group-title="Argentina",Blu Medios
 https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
