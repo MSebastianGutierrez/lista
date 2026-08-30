@@ -89,8 +89,12 @@ https://host.streamingnation.live/p/3345/hybrid/play.m3u8
 https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Argentina", LotPlus Pe
 https://ontvcable.streamottmas.workers.dev/?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatv%2Fgiatv-Ontv%2FOntv%2Fchunks.m3u8
-#EXTINF:-1  group-title="Argentina", Covatel Pe
-https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Argentina", Telelima Pe
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
+#EXTINF:-1  group-title="Argentina", VNP Pe
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1  group-title="Argentina", Uchu Pe
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
 #EXTINF:-1  group-title="Argentina", CVN Pe
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:-1  group-title="Argentina", RikuTV Pe
